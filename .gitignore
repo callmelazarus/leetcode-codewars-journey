@@ -1,0 +1,7 @@
+sandbox.py
+template.py
+
+# environments
+.env
+.venv
+.vscode
