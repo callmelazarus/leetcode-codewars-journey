@@ -19,7 +19,14 @@ Prepare for interview
 **Today I worked on:**
 
 1. merge two sorted list_easy
+
+By going thru the challenge...no matter how far I get. 
    **Reflection:**
+   Linked lists are made up of nodes, that point to other nodes. Each node has both a value, and a pointer to the subsequent node.
+   Spent over an hour simply trying to figure out the solution. Needed to go into a solution, and went thru the solution line by line. 
+  nearly took the entire day to really dig thru this one problem. 
+  Need to reform the way I prepare, establish more structure.
+
    **Lesson:**
    Trying to learn the **name** == "**main**" statement:
    https://www.geeksforgeeks.org/what-does-the-if-__name__-__main__-do/

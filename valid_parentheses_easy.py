@@ -85,6 +85,9 @@ def isValid(s: str) -> bool:
 
 # --- PSUEDOCODE ---
     """
+
+    core logic: what makes a valid parenthesis, a valid parenthesis?
+
 from: https://www.educative.io/answers/the-valid-parentheses-problem
 
 Declare an empty stack.
@@ -105,7 +108,7 @@ print('b: should be false//', b)
 c = isValid("({{{])") # false
 print('c: should be false//', c)
 
-d = isValid("({{}}[]())") # false
+d = isValid("({{}}[]())") # true
 print('d: should be true//', d)
 
 # --- ALT SOLN by others ---
