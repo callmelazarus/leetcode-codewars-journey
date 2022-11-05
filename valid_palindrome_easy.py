@@ -1,7 +1,8 @@
 """
 https://leetcode.com/problems/valid-palindrome/
 
-11/4/2022
+11/4/2022, finished 11/5
+Roughly took 2 hours (including time to complete)
 
 --- PROMPT ---
 A phrase is a palindrome if, after converting all uppercase letters into lowercase letters and removing all non-alphanumeric characters, it reads the same forward and backward. Alphanumeric characters include letters and numbers.
@@ -9,8 +10,9 @@ A phrase is a palindrome if, after converting all uppercase letters into lowerca
 Given a string s, return true if it is a palindrome, or false otherwise.
 
 
-
 --- LESSONS ---
+Received intial exposure to RE-gex libary, a string manipulation library. Knowing the correct methods will unlock the ability to do amazing things with strings
+
 
 """
 
@@ -23,27 +25,26 @@ def isPalindrome(s: str) -> bool:
     if s == " ":
         return True
     #lower case values, lower returns a string
-    a = s.lower()
-    # remove alpha-numeric values
-    # sub
+    lowered_case= s.lower()
+    # Select ONLY letters and numbers
     # https://docs.python.org/3/library/re.html
-    c = re.sub(r'[^\w\s]','',a) # for unicode
-    # a.encode("ascii", errors="ignore").decode()
-    # remove space, presenting words as letters
-    d = c.split()
-    # join items in list
-    e = ''.join(d)
+    # c = re.compile(r'[^\w\s]','',a) `# first attempt
+    only_letters_list = re.findall(r'[a-z0-9]',lowered_case) 
+
+    # join items in list to encoded string
+    encoded_string = ''.join(only_letters_list)
+
 
     # main logic that can check mirror
     # this will only work for even numbered strings
-    n = len(e)
+    n = len(encoded_string)
     
     mid_point = n/2
     for i in range(int(mid_point)):
       # first check
-      if i== 0 and e[0] == e[-1]:
+      if i== 0 and encoded_string[0] == encoded_string[-1]:
         continue
-      elif e[i] != e[-1*i+-1]:
+      elif encoded_string[i] != encoded_string[-1*i+-1]:
             return False
     return True
 

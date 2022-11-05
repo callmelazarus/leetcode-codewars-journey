@@ -1,6 +1,8 @@
 # Goal:
+MIN: 1 a day
+Goal: 3 a day
 
-3 Leetcode problems a day for 6 days, for 8 weeks (until the beginning of new year)
+Limits: Off on Sundays
 
 # Why:
 
@@ -13,6 +15,20 @@ Prepare for interview
 **Today I worked on:**
 **Reflection:**
 **Lesson:**
+
+
+## Nov 5, 2022 - Saturday
+
+**Today I worked on:**
+1. valid palindrone - easy (finished)
+**Reflection:**
+- it is an interesting feeling of trying to meet my goal of finishing a certain number of leetcode problems, but my ignorance of certain libraries are slowing me down. The fact that the journey is the reward is hard to hold onto - as I know there is value in learning the RE library, but I need to only learn just enough to accomplish the problem.
+- Some of the business logic is actually easy to figure out, but learning a new python library can be challenging. I watched YT videos while working out on REgex, and then had to do more digging.
+- Grind 75 notes that this probably should only take 15 minutes. If I knew how to use Regex, I would probably finish the problem in 15 minutes.
+**Lesson:**
+RE-gex library has multiple string maniupulation methods. I used the findall method, which found a certain substring of strings, and returned a list of individual letters in the correct order (removed punctuation, and the spaces.
+
+---
 
 ## Nov 4, 2022 - Friday
 
@@ -45,8 +61,8 @@ Prepare for interview
 - Encoding: assigning numbers to characters
 - ASCII(american standard code for information interchange): character encoding standard for communication.
 - Unicode: standard for enconding, representing, and handling texts.
--
 
+---
 ## Nov 3, 2022 - Thursday
 
 **Today I worked on:**
