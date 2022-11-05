@@ -16,6 +16,8 @@ Return the HEAD of the merged linked list.
 Input: list1 = [1,2,4], list2 = [1,3,4]
 Output: [1,1,2,3,4,4]
 
+*** REQUIRES understanding of Linked lists
+
 --- LESSONS ---
 Recognize that there is a hint above concerning the singly linked list above.
 
