@@ -20,9 +20,8 @@ Prepare for interview
 
 1. merge two sorted list - easy
 2. best time to buy sell stock - easy
-3. valid palindrome - easy
+3. valid palindrome - easy (did not copmlete, struggling with character fixing)
 
-By going thru the challenge...no matter how far I get.
 **Reflection:**
 
 - Linked lists are made up of nodes, that point to other nodes. Each node has both a value, and a pointer to the subsequent node.
@@ -34,7 +33,8 @@ By going thru the challenge...no matter how far I get.
 
 - What I hope to learn: being able to be more calm and collected as I solve a problem.
 - LC3 - removing the unicode characters is hard....
-  **Lesson:**
+
+**Lesson:**
 
 - LC: need to figure out the core logic of the problem, and what code you need to write to solve that core logic
   Trying to learn the **name** == "**main**" statement:
