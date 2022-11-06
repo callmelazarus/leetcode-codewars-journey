@@ -2,6 +2,7 @@
 https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 
 11/4/2022
+TIME: 
 
 --- PROMPT ---
 You are given an array prices where prices[i] is the price of a given stock on the ith day.
@@ -46,8 +47,6 @@ class Solution(object):
         # setup a minimum stock value, by setting min as, the min of prev min_stock, and the current price
           min_stock = min(min_stock, p)
       # check condition if values always decrease
-      if max_profit == 0:
-          return 0
       return max_profit
 
 # --- PSUEDOCODE ---

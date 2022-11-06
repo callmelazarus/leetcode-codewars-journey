@@ -39,7 +39,7 @@ def mergeTwoLists(list1, list2):
         return list2
     if list2 == None:
         return list1
-
+    # ------- SECTION 1 ----------
     # start the new linked list, with the head that is smaller of the head of list1 or list2
     if list1.val < list2.val:
         # setup both a temp and the soln_head, the soln_head is actually the head we are returning. 
@@ -52,10 +52,9 @@ def mergeTwoLists(list1, list2):
         temp = soln_head = ListNode(list2.val)
         # replace the head of list2 with the next node of list2 (since we are 'done' sorting that head)
         list2 = list2.next
-
+    # ------- SECTION 2 ----------
     # meaty section of algo where we are looping thru the linked lists
     # loop thru the list until the list becomes empty
-
     while list1 is not None and list2 is not None:
         # checks to see which value is smaller
         if list1.val < list2.val:
@@ -69,8 +68,9 @@ def mergeTwoLists(list1, list2):
             temp.next = ListNode(list2.val)
             list2 = list2.next
         # we now 'advance' the temp's pointer, and keep 'while loopin' until the lists are empty
+        # i dont' understand this ???????????????????
         temp = temp.next
-
+    # ------- SECTION 3 ----------
     # clean up loops, by checking unsorted elements
     while list1 is not None:
         # point the next temp value to the value in list1
@@ -86,6 +86,7 @@ def mergeTwoLists(list1, list2):
         temp = temp.next
 
     # return solution
+    # why return solution head, versus temp ???????????????????
     return soln_head
 
 # --- PSUEDOCODE ---

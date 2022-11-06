@@ -1,15 +1,23 @@
+# Problems to work thru
+
+https://www.techinterviewhandbook.org/grind75?hours=12&weeks=8
+
 # Goal:
 
 MIN: 1 a day
 Goal: 3 a day
 
-Limits: Off on Sundays
+Off on Sundays
 
 # Why:
 
 Grow as a developer.
 Have fun solving problems.
-Prepare for interview
+Be ready when my name is called in an interview.
+
+---
+
+# Journal
 
 ## Nov
 
@@ -21,9 +29,10 @@ Prepare for interview
 
 **Today I worked on:**
 
-1. valid palindrome - easy (finished)
-2. invert binary tree - easy (very challenging, could not do alone)
-3. valid anagram - easy (actually completed in 15 min, first try. wohoo!)
+1. valid palindrome - not hard.. but figuring out the string manipulation with regex took time (finished)
+2. invert binary tree - (very challenging, could not do alone)
+3. valid anagram - actually easy... (actually completed in 15 min, first try. wohoo!)
+4. Binary Search
 
 **Reflection:**
 
@@ -34,6 +43,7 @@ Prepare for interview
 - I had a general idea of what to do for binary tree, didn't recognize that recursion was the way to go. Went thru the process again of getting a solution online, and running with it in hopes to understand the solution after processing it.
 
 **Lesson:**
+
 - RE-gex library has multiple string maniupulation methods. I used the findall method, which found a certain substring of strings, and returned a list of individual letters in the correct order (removed punctuation, and the spaces.
 - You can actually check to see if one dictionary is equal to another dictionary
 - You can check to see if something is in a dictionary using 'in'
@@ -42,9 +52,9 @@ Prepare for interview
 
 **Today I worked on:**
 
-1. merge two sorted list - easy
-2. best time to buy sell stock - easy
-3. valid palindrome - easy (did not complete, struggling with character fixing)
+1. merge two sorted list - needed help. hard
+2. best time to buy sell stock - needed help. hard
+3. valid palindrome - relatively easy (did not complete, struggling with character fixing)
 
 **Reflection:**
 
