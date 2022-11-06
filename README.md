@@ -22,8 +22,8 @@ Prepare for interview
 **Today I worked on:**
 
 1. valid palindrome - easy (finished)
-2. invert binary tree - easy 
-
+2. invert binary tree - easy (very challenging, could not do alone)
+3. valid anagram - easy (actually completed in 15 min, first try. wohoo!)
 
 **Reflection:**
 
@@ -35,6 +35,8 @@ Prepare for interview
 
 **Lesson:**
 - RE-gex library has multiple string maniupulation methods. I used the findall method, which found a certain substring of strings, and returned a list of individual letters in the correct order (removed punctuation, and the spaces.
+- You can actually check to see if one dictionary is equal to another dictionary
+- You can check to see if something is in a dictionary using 'in'
 
 ## Nov 4, 2022 - Friday
 

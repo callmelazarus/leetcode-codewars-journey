@@ -14,6 +14,8 @@ Explanation
 https://favtutor.com/blogs/invert-binary-tree
 
 
+--- QUESTIONS ---
+Why does placing the recursion below the swap still make this work?
 
 """
 
@@ -26,7 +28,7 @@ class TreeNode:
         self.left = left
         self.right = right
 class Solution:
-    def invertTree(self, root: Optional[TreeNode]) -> Optional[TreeNode]:
+    def invertTree(self, root):
         # base case
         if (root == None): 
             return
@@ -65,7 +67,7 @@ def print_tree(node) :
         return
           
     print_tree(node.left)  
-    print node.val,
+    print(node.val)
     print_tree(node.right)  
 
 
