@@ -25,6 +25,18 @@ Be ready when my name is called in an interview.
 **Reflection:**
 **Lesson:**
 
+## Nov 7, 2022 - Monday
+
+**Today I worked on:**
+
+1. continuation of Binary Search
+
+**Reflection:**
+Will return to Binary Search
+Bootcamp consisted of career services. Working in Huntr and LinkedIn. Will aim to complete one Leetcode today, and for the rest of M-Thursday this week.
+
+**Lesson:**
+
 ## Nov 5, 2022 - Saturday
 
 **Today I worked on:**
@@ -32,7 +44,7 @@ Be ready when my name is called in an interview.
 1. valid palindrome - not hard.. but figuring out the string manipulation with regex took time (finished)
 2. invert binary tree - (very challenging, could not do alone)
 3. valid anagram - actually easy... (actually completed in 15 min, first try. wohoo!)
-4. Binary Search
+4. Binary Search - did not finish
 
 **Reflection:**
 

@@ -20,6 +20,12 @@ Trick is - how do I return the INDEX of the targeted number
 
 
 # --- MY SOLUTION ---
+
+
+
+
+
+
 class Solution(object):
     def search(self, nums, target):
         """
@@ -27,23 +33,41 @@ class Solution(object):
         :type target: int
         :rtype: int
         """
-        # the trick is - hwo 
-        if target not in nums:
-            return -1
-        else:
-
-            if len(nums) == 1:
-                return mid_index
-
-            n = len(nums)
-            mid_index = n//2
-            left = nums[0:mid_index]
-            right = nums[mid_index:n]
-
-            if target in left:
-                search(left, target)
+        left = 0
+        right = len(nums) - 1
+        while left <= right:
+            mid = (left + right) //2
+            if nums[mid] == target:
+                return mid
+            elif target < nums[mid]:
+                right = mid - 1
             else:
-                search(right, target)
+                left = mid + 1
+        return -1
+
+
+
+    def search_recursion(self, nums, target):
+        """
+        :type nums: List[int]
+        :type target: int
+        :rtype: int
+        """
+        left = 0
+        right = len(nums) - 1
+
+        if left > right:
+            return -1
+
+            
+        mid_index = (left + right)//2
+
+        if nums[mid_index] < target:
+            return self.search(nums[mid_index+1:right], target)
+        elif nums[mid_index] > target:
+            return self.search(nums[left:mid_index-1], target)
+        else:
+            return mid_index
 
 
 # --- PSUEDOCODE ---
@@ -60,8 +84,42 @@ if in right -> find another middle and check if target is in right or left
 
 end of the line - if if you are left with 1 element. on left or right
 
+
+:: video explanation without recursion ::
+https://www.youtube.com/watch?v=6ysjqCUv3K4
+
+:: CODE FROM LEARN ::
+def binary_search(values, target, left=None, right=None):
+    if left is None and right is None:
+        left = 0
+        right = len(values) - 1
+
+    # Base case: did not find item
+    if left > right:
+        return -1
+
+    # Recursive case
+    middle = (left + right) // 2
+    if values[middle] < target:
+        return binary_search(values, target, middle + 1, right)
+    elif values[middle] > target:
+        return binary_search(values, target, left, middle - 1)
+    else:
+      return middle
+
+Resource:
+https://leetcode.com/discuss/general-discussion/786126/Python-Powerful-Ultimate-Binary-Search-Template.-Solved-many-problems
+
 """
 # --- TEST ---
+
+nums = [-1,0,3,5,9,12]
+target = 9
+# solution is 4
+
+s = Solution()
+
+print(s.search(nums, target))
 
 
 
