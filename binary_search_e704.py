@@ -33,16 +33,27 @@ class Solution(object):
         :type target: int
         :rtype: int
         """
+        # initialize bounds
         left = 0
         right = len(nums) - 1
+
+        # setup loop - left and right will be adjusted within the loop
         while left <= right:
             mid = (left + right) //2
+
+            # eventually the target will match the nums[mid]. Return the index
             if nums[mid] == target:
                 return mid
+            
+            # if target is on 'left side' -> adjust right to be just 'left of mid'
             elif target < nums[mid]:
                 right = mid - 1
+
+            # if target is on 'right side' -> adjust left to be 'right of mid'
             else:
                 left = mid + 1
+        
+        # if target is not in the list -> return -1
         return -1
 
 
@@ -53,6 +64,7 @@ class Solution(object):
         :type target: int
         :rtype: int
         """
+        # initialize bounds
         left = 0
         right = len(nums) - 1
 
