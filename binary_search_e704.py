@@ -57,6 +57,39 @@ class Solution(object):
         return -1
 
 
+    def search_kirk(self, nums, target):
+        """
+        :type nums: List[int]
+        :type target: int
+        :rtype: int
+        """
+        mid = len(nums)//2
+        # edge case - when target not in nums
+        if len(nums) == 1:
+            if nums[mid] == target:
+                return 0
+            else:
+                return -1
+    
+        if len(nums) == 0:
+            return -1
+
+        if target >= nums[mid]:
+            blah = self.search_kirk(nums[mid:], target) 
+            if blah == -1:
+                return -1
+            return mid + blah
+            
+        if target < nums[mid]:
+            blee = self.search_kirk(nums[:mid], target)
+            if blee == -1:
+                return -1
+            return blee 
+
+
+
+
+
 
     def search_recursion(self, nums, target):
         """
@@ -64,20 +97,21 @@ class Solution(object):
         :type target: int
         :rtype: int
         """
+
+        # this doesn't work....
         # initialize bounds
         left = 0
         right = len(nums) - 1
 
         if left > right:
             return -1
-
             
         mid_index = (left + right)//2
 
         if nums[mid_index] < target:
-            return self.search(nums[mid_index+1:right], target)
+            return self.search_recursion(nums[mid_index+1:right], target) + mid_index
         elif nums[mid_index] > target:
-            return self.search(nums[left:mid_index-1], target)
+            return self.search_recursion(nums[left:mid_index], target) 
         else:
             return mid_index
 
@@ -126,12 +160,15 @@ https://leetcode.com/discuss/general-discussion/786126/Python-Powerful-Ultimate-
 # --- TEST ---
 
 nums = [-1,0,3,5,9,12]
-target = 9
-# solution is 4
+target = 837
+# -1 -> 2
+# 3 -> 0
+
+# -1, 3 don't work
 
 s = Solution()
 
-print(s.search(nums, target))
+print(s.search_recursion(nums, target))
 
 
 
