@@ -22,11 +22,52 @@ Return the modified image after performing the flood fill.
 
 
 # --- MY SOLUTION ---
+class Solution(object):
+    def floodFill(self, image, sr, sc, color):
+        """
+        :type image: List[List[int]]
+        :type sr: int
+        :type sc: int
+        :type color: int
+        :rtype: List[List[int]]
+        """
+    # edge case
+    
+    # if the value located at sr/sc matches the color value -> return image
+        if image[sr][sc] == color:
+            return image
+        
+        # actual solution
+        # impacted values: indexes that are ADJACENT to sr/sc
+
+        # the hard part is the daisy chaining of the next adjacent value
+
+        else:
+            # one more and less sc / one more and less sr
+            if image[sr][sc] != color:
+                image[sr][sc] = color
+                new_val = image[sr][sc]
+            if image[sr+1][sc] != new_val: # 2, 1 index loc (0)
+                image[sr+1][sc] = color
+                self.floodFill(image, sr+1, sc, color)
+            if image[sr-1][sc] != new_val:
+                image[sr-1][sc] = color # 0, 1
+                self.floodFill(image, sr-1, sc, color)
+            if image[sr][sc+1] != new_val:
+                image[sr][sc+1] = color
+                self.floodFill(image, sr, sc+1, color)
+            if image[sr][sc-1] != new_val:
+                image[sr][sc-1] = color
+                self.floodFill(image, sr, sc-1, color)
+            return image
 
 
 
 # --- PSUEDOCODE ---
 """
+start by covering edge case where the sr/sc value is the same as the color value
+take the smallest step forward
+Achieve the next case where you are able to adjust the adjacent index conditions
 
 
 
