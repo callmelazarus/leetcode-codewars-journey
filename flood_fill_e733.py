@@ -15,6 +15,21 @@ Return the modified image after performing the flood fill.
 
 
 --- LESSONS ---
+Breadth first search BFS - an algorithm for searching graphs
+used for shortest path problems
+You want to search the same plane first before going into depths
+you have a visited and queu list
+Time complexity O( #Vertices's + #Edges
+
+Graphs - recognizing this data structure is step 1
+- node - points
+- edges - arrows that link nodes
+
+15 min Video describing BFS and flood fill:
+https://www.youtube.com/watch?v=xlVX7dXLS64
+
+1 hr vide lecture on graph search:
+https://www.youtube.com/watch?v=s-CYnVz-uh4
 
 --- QUESTIONS ---
 
@@ -31,6 +46,12 @@ class Solution(object):
         :type color: int
         :rtype: List[List[int]]
         """
+
+      start = image[sr][sc]
+      queue = [
+
+    def floodFill_jay(self, image, sr, sc,color):
+      # this solution doesn't work, but was my first try
     # edge case
     
     # if the value located at sr/sc matches the color value -> return image
