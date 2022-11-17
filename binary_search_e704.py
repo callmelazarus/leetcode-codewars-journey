@@ -27,13 +27,15 @@ Trick is - how do I return the INDEX of the targeted number
 
 
 class Solution(object):
+
+    # iterative solution
     def search(self, nums, target):
         """
         :type nums: List[int]
         :type target: int
         :rtype: int
         """
-        # initialize bounds
+        # initialize indexes
         left = 0
         right = len(nums) - 1
 
@@ -57,6 +59,7 @@ class Solution(object):
         return -1
 
 
+# solution with Kirk
     def search_kirk(self, nums, target):
         """
         :type nums: List[int]

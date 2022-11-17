@@ -4,8 +4,8 @@ https://www.techinterviewhandbook.org/grind75?hours=12&weeks=8
 
 # Goal:
 
-MIN: 1 a day
-Goal: 3 a day
+MIN: 1 a day // results in roughly 39 total by Jan 1, 2023
+Goal: 3 a day // results in roughly 117 total by Jan 1, 2023
 
 Off on Sundays
 
@@ -24,6 +24,16 @@ Be ready when my name is called in an interview.
 **Today I worked on:**
 **Reflection:**
 **Lesson:**
+
+## Nov 16, 2022 - Wednesday
+
+**Today I worked on:**
+**Reflection:**
+- getting back into leetcode. This past Monday was graduation, and last week was career services
+**Lesson:**
+- at 3pm, when I have low energy, I can do a walk and talk, prepare for behavorial interviews
+
+
 
 ## Nov 7, 2022 - Monday
 
