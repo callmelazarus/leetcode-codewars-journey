@@ -2,6 +2,9 @@
 
 https://www.techinterviewhandbook.org/grind75?hours=12&weeks=8
 
+Needcode - blind 75
+https://neetcode.io/practice
+
 # Goal:
 
 MIN: 1 a day // results in roughly 39 total by Jan 1, 2023
@@ -28,12 +31,16 @@ Be ready when my name is called in an interview.
 ## Nov 16, 2022 - Wednesday
 
 **Today I worked on:**
+
+- Binary search [iterative approach]
+- Flood Fill again
+
 **Reflection:**
-- getting back into leetcode. This past Monday was graduation, and last week was career services
-**Lesson:**
+
+- getting back into leetcode. This past Monday was graduation, and last week was career services.
+- floodfill is not easy to process
+  **Lesson:**
 - at 3pm, when I have low energy, I can do a walk and talk, prepare for behavorial interviews
-
-
 
 ## Nov 7, 2022 - Monday
 

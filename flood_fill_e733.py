@@ -47,8 +47,30 @@ class Solution(object):
         :rtype: List[List[int]]
         """
 
-      start = image[sr][sc]
-      queue = [
+class Solution(object):
+    def floodFill(self, image, sr, sc, newColor):
+
+        # solution from leetcode
+        # time complexity: O(n) -> we cycle thru number of pixels in image, we may process every pixel
+        # Space complexity O(n) -> size of implicit call stack when calling dfs
+
+        R, C = len(image), len(image[0])
+        color = image[sr][sc]
+        if color == newColor: return image
+
+
+
+        # floodfill a specific pixel
+        def dfs(r, c):
+            if image[r][c] == color:
+                image[r][c] = newColor
+                if r >= 1: dfs(r-1, c)
+                if r+1 < R: dfs(r+1, c)
+                if c >= 1: dfs(r, c-1)
+                if c+1 < C: dfs(r, c+1)
+
+        dfs(sr, sc)
+        return image
 
     def floodFill_jay(self, image, sr, sc,color):
       # this solution doesn't work, but was my first try
