@@ -72,6 +72,30 @@ class Solution(object):
         dfs(sr, sc)
         return image
 
+    def isValid(image, sr,sc):
+        return sr >0 and sc >= 0 and sr < len(image) and sc < len(image[0]) 
+
+    def neighbors(image, sr, sc, start):
+        indices = [(sr -1, sc),(sr + 1, sc), (sr, sc-1), (sr, sc+1)]
+        return [(sr, sc) for sr, sc in indices if self.isValid(image, sr, sc) and image[sr][sc] == start]
+
+    def floodFill_BFS(self, image, sr, sc, newColor):
+        start = image[sr][sc]
+        queue = [(sr, sc)]
+        visited = []
+        while len(queue) > 0:
+            sr, sc = queue.pop(0)
+            visited.add((sr,sc))
+            image[sr][sc] = p
+            for sr, sc in self.neighbors(image, sr, sc, start):
+                if(sr, sc) not in visited:
+                    queue.append((sr,sc))
+        return image
+
+
+
+
+
     def floodFill_jay(self, image, sr, sc,color):
       # this solution doesn't work, but was my first try
     # edge case

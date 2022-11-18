@@ -28,6 +28,35 @@ Be ready when my name is called in an interview.
 **Reflection:**
 **Lesson:**
 
+
+## Nov 18 - Friday
+
+**Today I worked on:**
+- Contains duplicate (< 5 min)
+- re-did - valid anagram (10 min)
+- Two Sum
+
+**Reflection:**
+- looked into neetcode vs educative's grokking
+**Lesson:**
+- sort fxn in python is time complexity O(nlogn)
+- set function in python has a O(1) time complexity, worst case O(n), with space complexity of O(n)
+- len is O(c) time complexity
+
+## Nov 17 - Thursday
+
+**Today I worked on:**
+- more flood fill
+**Reflection:**
+
+**Lesson:**
+- work smarter not harder. Consider using courses, instead of just plowing thru leetcode
+- difference between a tag and button tag
+- litle steps forward are still steps
+- use 'n' to interatively manage nodejs versions
+- https://stackoverflow.com/questions/7718313/how-to-change-to-an-older-version-of-node-js
+
+
 ## Nov 16, 2022 - Wednesday
 
 **Today I worked on:**
