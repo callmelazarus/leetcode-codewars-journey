@@ -14,9 +14,9 @@ Off on Sundays
 
 # Why:
 
+Be ready when my name is called in an interview.
 Grow as a developer.
 Have fun solving problems.
-Be ready when my name is called in an interview.
 
 ---
 
@@ -29,12 +29,26 @@ Be ready when my name is called in an interview.
 **Lesson:**
 
 
+## Nov 19, 2022 - Saturday
+
+**Today I worked on:**
+- valid palindrome (two pointers type)
+- ransom note (Hashmap done for fun, from grind 75)
+**Reflection:**
+If I slow down to think about these problems, I can figure it out
+**Lesson:**
+- making helper functions can be helpful!
+- ord() method in python will return the unicode value associated with a character
+
+
+
 ## Nov 18 - Friday
 
 **Today I worked on:**
-- Contains duplicate (< 5 min)
-- re-did - valid anagram (10 min)
-- Two Sum
+- Contains duplicate (< 5 min - hashmap type)
+- re-did - valid anagram (10 min - hashmap type)
+- Two Sum (hashmap type)
+- group anagrams (my first med!! Hashmap type)
 
 **Reflection:**
 - looked into neetcode vs educative's grokking

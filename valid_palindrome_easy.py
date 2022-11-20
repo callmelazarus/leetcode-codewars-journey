@@ -2,7 +2,12 @@
 https://leetcode.com/problems/valid-palindrome/
 
 11/4/2022, finished 11/5
-Roughly took 2 hours (including time to complete)
+Revisited: 11/19/22
+
+PATTERN: 2 pointer
+
+Roughly took 2 hours (including time to complete first try - trying to figure out regex was most of the time)
+
 
 --- PROMPT ---
 A phrase is a palindrome if, after converting all uppercase letters into lowercase letters and removing all non-alphanumeric characters, it reads the same forward and backward. Alphanumeric characters include letters and numbers.
@@ -13,6 +18,7 @@ Given a string s, return true if it is a palindrome, or false otherwise.
 --- LESSONS ---
 Received intial exposure to RE-gex libary, a string manipulation library. Knowing the correct methods will unlock the ability to do amazing things with strings
 
+ord() method in python will return the unicode value. You can check to see if an ASCI character is a letter or number, cased on a comparison of the ord() value of the characters
 
 """
 
@@ -21,7 +27,67 @@ import re
     # c = re.sub(r'[^\w\s]','',a)
 
 # --- MY SOLUTION ---
-def isPalindrome(s: str) -> bool:
+
+import re
+
+class Solution(object):
+    def isPalindrome(self, s):
+        """
+        :type s: str
+        :rtype: bool
+        """
+
+    # input -  string
+    # turn to lowercase
+    # remove all non-alphanumeric values
+    # check if letters reaad the same both ways
+    # if they do - return TRUE
+        if s == " ":
+            return True
+        lower = s.lower()
+        # remove non-alphanumeric values from string
+        pruned = re.findall('[a-z0-9]', lower)
+        # print('pruned:', pruned)
+        # joint into one continguous string
+        final = "".join(pruned)
+        # print('final:', final)
+
+        # num loops = len(string) // 2
+        num_loops = len(final)//2
+        
+        for i in range(num_loops):
+            if i == 0:
+                if final[0] != final[-1]:
+                    return False
+            else:
+              if final[i] != final[-1*i-1]:
+                  return False
+        return True
+      
+    def isAlphaNum(self, c):
+      return (ord('A') <= ord(c) <= ord('Z') or ord('a') <= ord(c) <= ord('z') or ord('0') <= ord(c) <= ord('9'))
+
+
+    def isPalindrome_2(self, s):
+      # initialize left and right
+      l, r = 0, len(s) - 1
+
+      while l < r:
+        # check if left character is not alphanumeric
+        while l < r and not self.isAlphaNum(s[l]):
+          l += 1
+        # check if right characters is not alphanumeric
+        while l < r and not self.isAlphaNum(s[r]):
+          r -= 1
+        # check to see if the values are NOT equal
+        if s[l].lower() != s[r].lower():
+          return False
+        l += 1
+        r -= 1
+      return True
+
+
+def isPalindrome_first(s: str) -> bool:
     if s == " ":
         return True
     #lower case values, lower returns a string
@@ -71,7 +137,9 @@ s = "A man, a plan, a canal: Panama"
 last = "ab_$a"
 
 # print('test for s:', isPalindrome(s))
-print('test for last:', isPalindrome(last))
+a = Solution()
+jeff = a.isPalindrome_2(s)
+print('test for last:', jeff)
 
 
 

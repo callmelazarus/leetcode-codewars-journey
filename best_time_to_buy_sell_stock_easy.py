@@ -4,6 +4,8 @@ https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 11/4/2022
 TIME: 
 
+TYPE: Sliding window
+
 --- PROMPT ---
 You are given an array prices where prices[i] is the price of a given stock on the ith day.
 
