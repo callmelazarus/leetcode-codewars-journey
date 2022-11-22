@@ -14,6 +14,8 @@ You want to maximize your profit by choosing a single day to buy one stock and c
 Return the maximum profit you can achieve from this transaction. If you cannot achieve any profit, return 0.
 
 --- LESSONS ---
+Sliding window can be dynamic, it saves on time complexity (O(n) vs O(n^2)).
+Sliding window, using the two pointers will help me compare two values within a list, to calc a max difference
 
 """
 
@@ -50,6 +52,30 @@ class Solution(object):
           min_stock = min(min_stock, p)
       # check condition if values always decrease
       return max_profit
+
+
+    def maxProfit_2_pointer(self, prices):
+      # specify indices
+      left, right = 0, 1 # left = buy, right = sell
+      # initialize max profit
+      maxP = 0
+
+      # loop thru prices one time!
+      while right < len(prices):
+          # if profitable...
+          if prices[left] < prices[right]: 
+            # set profit
+            profit = prices[right] - prices[left]
+            # set max profit
+            maxP = max(maxP, profit)
+          # if NOT profitable... this is the sliding! This slides the left pointer to the right
+          else:
+            left = right
+          
+          # increment right ALWAYS
+          right += 1
+
+
 
 # --- PSUEDOCODE ---
 """

@@ -28,31 +28,42 @@ Have fun solving problems.
 **Reflection:**
 **Lesson:**
 
+## Nov 21, 2022 - Monday
+
+**Today I worked on:**
+
+- best time to buy and sell stock
+  **Reflection:**
+  Leetcode is still very challenging, but understanding the solution is definitely more tolerable than coming up with the solution (captain obvious)
+  **Lesson:**
+  Sliding window can be dynamic, it saves on time complexity (O(n) vs O(n^2)).
+  Sliding window, using the two pointers will help me compare two values within a list, to calc a max difference
 
 ## Nov 19, 2022 - Saturday
 
 **Today I worked on:**
+
 - valid palindrome (two pointers type)
 - ransom note (Hashmap done for fun, from grind 75)
-**Reflection:**
-If I slow down to think about these problems, I can figure it out
-**Lesson:**
+  **Reflection:**
+  If I slow down to think about these problems, I can figure it out
+  **Lesson:**
 - making helper functions can be helpful!
 - ord() method in python will return the unicode value associated with a character
-
-
 
 ## Nov 18 - Friday
 
 **Today I worked on:**
+
 - Contains duplicate (< 5 min - hashmap type)
 - re-did - valid anagram (10 min - hashmap type)
 - Two Sum (hashmap type)
 - group anagrams (my first med!! Hashmap type)
 
 **Reflection:**
+
 - looked into neetcode vs educative's grokking
-**Lesson:**
+  **Lesson:**
 - sort fxn in python is time complexity O(nlogn)
 - set function in python has a O(1) time complexity, worst case O(n), with space complexity of O(n)
 - len is O(c) time complexity
@@ -60,16 +71,17 @@ If I slow down to think about these problems, I can figure it out
 ## Nov 17 - Thursday
 
 **Today I worked on:**
+
 - more flood fill
-**Reflection:**
+  **Reflection:**
 
 **Lesson:**
+
 - work smarter not harder. Consider using courses, instead of just plowing thru leetcode
 - difference between a tag and button tag
 - litle steps forward are still steps
 - use 'n' to interatively manage nodejs versions
 - https://stackoverflow.com/questions/7718313/how-to-change-to-an-older-version-of-node-js
-
 
 ## Nov 16, 2022 - Wednesday
 
@@ -157,7 +169,8 @@ Bootcamp consisted of career services. Working in Huntr and LinkedIn. Will aim t
 **Today I worked on:**
 
 1. valid parenthesis - easy
-   **Reflection:**
-   Finally solved this!!! Needed the help of the online pseudocode though...
-   I do see value in this approach, as the solution helps close the gaps in my mind. I will make a video to accompany the solution, explaining the thought process as well.
-   **Lesson:**
+
+**Reflection:**
+Finally solved this!!! Needed the help of the online pseudocode though...
+I do see value in this approach, as the solution helps close the gaps in my mind. I will make a video to accompany the solution, explaining the thought process as well.
+**Lesson:**
