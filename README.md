@@ -28,16 +28,29 @@ Have fun solving problems.
 **Reflection:**
 **Lesson:**
 
+
+## Nov 22, 2022 - Tuesday
+
+**Today I worked on:**
+- longest common prefix
+**Reflection:**
+- Today, worked with Andrew this morning which was cool. got to see some nodejs. Unfortuantely, he told me later that his wife tested postive for covid.... he was ok, and I spent all my time with him, but I am just hoping I am ok...
+- dealing with just strange edge cases in longest common prefix. annoying..
+**Lesson:**
+
+
 ## Nov 21, 2022 - Monday
 
 **Today I worked on:**
 
 - best time to buy and sell stock
-  **Reflection:**
-  Leetcode is still very challenging, but understanding the solution is definitely more tolerable than coming up with the solution (captain obvious)
-  **Lesson:**
-  Sliding window can be dynamic, it saves on time complexity (O(n) vs O(n^2)).
-  Sliding window, using the two pointers will help me compare two values within a list, to calc a max difference
+
+**Reflection:**
+Leetcode is still very challenging, but understanding the solution is definitely more tolerable than coming up with the solution (captain obvious)
+
+**Lesson:**
+Sliding window can be dynamic, it saves on time complexity (O(n) vs O(n^2)).
+Sliding window, using the two pointers will help me compare two values within a list, to calc a max difference
 
 ## Nov 19, 2022 - Saturday
 

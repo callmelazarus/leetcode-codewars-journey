@@ -35,7 +35,7 @@ class Solution(object):
         :type target: int
         :rtype: int
         """
-        # initialize indexes
+        # initialize 2 pointers
         left = 0
         right = len(nums) - 1
 
