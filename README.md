@@ -20,24 +20,29 @@ Have fun solving problems.
 
 ---
 
-# Journal
-
 ## Nov
 
 **Today I worked on:**
 **Reflection:**
 **Lesson:**
 
+## Nov 25, 2022 - Friday
+
+**Today I worked on:**
+
+- reverse linked list
+  **Reflection:**
+  **Lesson:**
 
 ## Nov 22, 2022 - Tuesday
 
 **Today I worked on:**
+
 - longest common prefix
-**Reflection:**
+  **Reflection:**
 - Today, worked with Andrew this morning which was cool. got to see some nodejs. Unfortuantely, he told me later that his wife tested postive for covid.... he was ok, and I spent all my time with him, but I am just hoping I am ok...
 - dealing with just strange edge cases in longest common prefix. annoying..
-**Lesson:**
-
+  **Lesson:**
 
 ## Nov 21, 2022 - Monday
 
