@@ -27,6 +27,7 @@ Have fun solving problems.
 **Reflection:**
 This was actually a bit more fun. Did this at the end of the day.
 To solve this problem, we used 2 pointers again, that advance at different rates. Genius.
+It isn't the amount of time I spend, it is the impact I make in the time I have
 **Lesson:**
 is not vs !=
 `==` is an equality check
