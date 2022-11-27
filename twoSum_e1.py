@@ -3,6 +3,8 @@ https://leetcode.com/problems/two-sum/
 
 11/18/2022
 
+- hash map / dictionary
+
 --- PROMPT ---
 Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
 

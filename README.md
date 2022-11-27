@@ -23,8 +23,23 @@ Have fun solving problems.
 ## Nov
 
 **Today I worked on:**
+- linked list cycle
+**Reflection:**
+This was actually a bit more fun. Did this at the end of the day.
+To solve this problem, we used 2 pointers again, that advance at different rates. Genius.
+**Lesson:**
+is not vs !=
+`==` is an equality check
+`is` is a idendity check, to see if the objects are exactly the same. 
+You would use the `is` check with `None`.
+
+---
+## Nov 26, 2022 - Saturday
+
+**Today I worked on:**
 **Reflection:**
 **Lesson:**
+
 
 ## Nov 25, 2022 - Friday
 

@@ -3,6 +3,9 @@ https://leetcode.com/problems/reverse-linked-list/
 
 11/23/2022
 
+- three pointers
+- think of ways to reverse how the .next will point based on pointers
+
 --- PROMPT ---
 Given the head of a singly linked list, reverse the list, and return the reversed list.
 
