@@ -29,6 +29,20 @@ Have fun solving problems.
 
 ---
 
+## Nov
+
+
+**Today I worked on:**
+1. merge two sorted list in JS
+
+**Reflection:**
+- I was focusing on doing work that makes and impact. Even if I'm going slowly, I am doing better than my old self. For this reason, I am happy with the 1.5 hours I spent on merge two sorted list. It did help though, that I had seen this problem before... but even still, I consider this a win.
+
+
+**Lesson:**
+- dummy nodes are typically created in SLL in order to allow you to keep track of the head of your solution SLL
+
+
 ## Nov 26, 2022 - Saturday
 **Today I worked on:**
 linked list cycle
