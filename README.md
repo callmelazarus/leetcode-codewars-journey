@@ -28,17 +28,33 @@ Have fun solving problems.
 
 ---
 
-## Nov 28, 2022 - Tuesday
+## Nov 30, 2022 - Wednesday
 
 **Today I worked on:**
+
+1. same tree e100
+
+**Reflection:**
+
+- the reqmt for recursion is starting to get easier to spot. Writing it seems to still start with the base case, and then moving forward.
+
+**Lesson:**
+
+- in an `if` conditional, nothing something as `if not value` is the way to test if a node is is None/empty. If it is empty, than that statement will return `True`
+
+## Nov 29, 2022 - Tuesday
+
+**Today I worked on:**
+
 1. Maximum Depth of Binary Tree
 
 **Reflection:**
+
 - Would not have figured out on my own, the need to keep track of the counter of the depth of the tree using the +1
 
 **Lesson:**
 
-## Nov 27, 2022 - Monday
+## Nov 28, 2022 - Monday
 
 **Today I worked on:**
 
