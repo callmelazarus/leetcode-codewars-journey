@@ -53,7 +53,7 @@ class Solution(object):
       # check condition if values always decrease
       return max_profit
 
-
+# sliding window is best used to find longest/shortest/target in an array/string
     def maxProfit_2_pointer(self, prices):
       # specify indices
       left, right = 0, 1 # left = buy, right = sell

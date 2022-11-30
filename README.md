@@ -22,40 +22,51 @@ Have fun solving problems.
 
 ## Nov
 
-
 **Today I worked on:**
 **Reflection:**
 **Lesson:**
 
 ---
 
-## Nov
-
+## Nov 28, 2022 - Tuesday
 
 **Today I worked on:**
+1. Maximum Depth of Binary Tree
+
+**Reflection:**
+- Would not have figured out on my own, the need to keep track of the counter of the depth of the tree using the +1
+
+**Lesson:**
+
+## Nov 27, 2022 - Monday
+
+**Today I worked on:**
+
 1. merge two sorted list in JS
 
 **Reflection:**
+
 - I was focusing on doing work that makes and impact. Even if I'm going slowly, I am doing better than my old self. For this reason, I am happy with the 1.5 hours I spent on merge two sorted list. It did help though, that I had seen this problem before... but even still, I consider this a win.
 
-
 **Lesson:**
+
 - dummy nodes are typically created in SLL in order to allow you to keep track of the head of your solution SLL
 
-
 ## Nov 26, 2022 - Saturday
+
 **Today I worked on:**
 linked list cycle
 
 **Reflection:**
+
 - This was actually a bit more fun. Did this at the end of the day.
-To solve this problem, we used 2 pointers again, that advance at different rates. Genius.
+  To solve this problem, we used 2 pointers again, that advance at different rates. Genius.
 - It isn't the amount of time I spend, it is the impact I make in the time I have
 
 **Lesson:**
 is not vs !=
 `==` is an equality check
-`is` is a idendity check, to see if the objects are exactly the same. 
+`is` is a idendity check, to see if the objects are exactly the same.
 You would use the `is` check with `None`.
 In Markdown, if you want to keep your bullets and index in check, make sure you create a new line after a bulleted object
 
@@ -66,6 +77,7 @@ In Markdown, if you want to keep your bullets and index in check, make sure you 
 - reverse linked list
 
 **Reflection:**
+
 - these LC problems are hard. They aren't meant to be easy
 
 **Lesson:**
@@ -97,24 +109,27 @@ Sliding window, using the two pointers will help me compare two values within a 
 
 - valid palindrome (two pointers type)
 - ransom note (Hashmap done for fun, from grind 75)
-**Reflection:**
+  **Reflection:**
 - If I slow down to think about these problems, I can figure it out
-**Lesson:**
+  **Lesson:**
 - making helper functions can be helpful!
 - ord() method in python will return the unicode value associated with a character
 
 ## Nov 18 - Friday
 
 **Today I worked on:**
+
 - Contains duplicate (< 5 min - hashmap type)
 - re-did - valid anagram (10 min - hashmap type)
 - Two Sum (hashmap type)
 - group anagrams (my first med!! Hashmap type)
 
 **Reflection:**
+
 - looked into neetcode vs educative's grokking
 
 **Lesson:**
+
 - sort fxn in python is time complexity O(nlogn)
 - set function in python has a O(1) time complexity, worst case O(n), with space complexity of O(n)
 - len is O(c) time complexity
@@ -124,9 +139,10 @@ Sliding window, using the two pointers will help me compare two values within a 
 **Today I worked on:**
 
 - more flood fill
-**Reflection:**
+  **Reflection:**
 
 **Lesson:**
+
 - work smarter not harder. Consider using courses, instead of just plowing thru leetcode
 - difference between a tag and button tag
 - litle steps forward are still steps
@@ -136,13 +152,15 @@ Sliding window, using the two pointers will help me compare two values within a 
 ## Nov 16, 2022 - Wednesday
 
 **Today I worked on:**
+
 - Binary search [iterative approach]
 - Flood Fill again
 
 **Reflection:**
+
 - getting back into leetcode. This past Monday was graduation, and last week was career services.
 - floodfill is not easy to process
-**Lesson:**
+  **Lesson:**
 - at 3pm, when I have low energy, I can do a walk and talk, prepare for behavorial interviews
 
 ## Nov 7, 2022 - Monday
