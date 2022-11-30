@@ -43,6 +43,7 @@ transfer repo from gitlab to github.
 **Lesson:**
 
 - in an `if` conditional, nothing something as `if not value` is the way to test if a node is is None/empty. If it is empty, than that statement will return `True`
+- setting a new remote - github. use command `git remote add origin REPO_URL`
 
 ## Nov 29, 2022 - Tuesday
 
