@@ -43,7 +43,16 @@ transfer repo from gitlab to github.
 **Lesson:**
 
 - in an `if` conditional, nothing something as `if not value` is the way to test if a node is is None/empty. If it is empty, than that statement will return `True`
-- setting a new remote - github. use command `git remote add origin REPO_URL`
+- setting a new remote - github. use command `git remote add origin REPO_URL`. I think that is the process
+- Trying to figure out my process here. May need to do this again with another repo that I am trying to trasnfer to GH. History:
+  1. commit - 'transfer to github' 
+  2. git remote add origin
+  3. commit 'test push to github'
+  4. git remote set-rul 'url'
+  5. commit - 'test push to github'
+  6. git push --set-upstream origin main
+  7. commit - 'fixed filename for invert binary tree JS'
+
 
 ## Nov 29, 2022 - Tuesday
 
