@@ -20,13 +20,29 @@ Have fun solving problems.
 
 ---
 
-## Nov
+## Dec
 
 **Today I worked on:**
 **Reflection:**
 **Lesson:**
 
 ---
+
+## DEC 1, 2022 - Thur
+
+**Today I worked on:**
+1. Subtree of another Tree (extension to same_tree)
+2. invert binary tree (another time from memory!!)
+3. 
+
+**Reflection:**
+- this was the first LC problem that was actually enjoyable, even tho I didn't quite get the solution. I think the general logic was in my head, but writing the code out, especially the recursive nature of the code is uncertain to me
+- I was on the right path in thinking about using a helper function
+- the recursion is still challenging to me
+
+**Lesson:**
+- recursion solutions - simply define your edge cases/ return statements as the base case
+- you likely will be returning something in the recursive call
 
 ## Nov 30, 2022 - Wednesday
 
