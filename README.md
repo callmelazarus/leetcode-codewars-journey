@@ -33,12 +33,13 @@ Have fun solving problems.
 **Today I worked on:**
 1. Subtree of another Tree (extension to same_tree)
 2. invert binary tree (another time from memory!!)
-3. 
+3. backspace string compare (easy - first one in a while I solved on my own, in less than 10 min!)
 
 **Reflection:**
 - this was the first LC problem that was actually enjoyable, even tho I didn't quite get the solution. I think the general logic was in my head, but writing the code out, especially the recursive nature of the code is uncertain to me
 - I was on the right path in thinking about using a helper function
 - the recursion is still challenging to me
+- got practice with list comprehension, try/except, and helper functions today
 
 **Lesson:**
 - recursion solutions - simply define your edge cases/ return statements as the base case
