@@ -6,12 +6,13 @@ https://leetcode.com/problems/two-sum/
 - hash map / dictionary
 
 --- PROMPT ---
-Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
+Given an array of integers nums and an integer target, 
+return indices of the two numbers such that they add up to target.
 
-You may assume that each input would have exactly one solution, and you may not use the same element twice.
+You may assume that each input would have exactly one solution,
+ and you may not use the same element twice.
 
 You can return the answer in any order.
-
 
 
 --- LESSONS ---
@@ -33,13 +34,18 @@ class Solution(object):
         # input: nums(list); target(int)
 
         # output -> list of indices, that note two unique numbers that add to target
-        
+
+        # time: O(n) 
+        # mem: O(n) bc we might create a hash that is the entire size of the array, worst case
+
         prevDict = {} # value: index
 
         for i, element in enumerate(nums): # enumerate produces index, and element in tuple
             diff = target - element  # as you loop thru the list, the difference between target and element is the difference we need to find in the list
-            if diff in prevDict: # if difference already exists inside the dictionary
+            if diff in prevDict: # if difference exists inside the dictionary
                 return [prevDict[diff], i] # return that array
+            
+            # we add to the dictionary AFTER we do our conditional check. This ensures we use unique values
             prevDict[element] = i # otherwise, keep progressing thru list, building the dictionary
 
 

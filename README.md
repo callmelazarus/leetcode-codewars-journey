@@ -28,6 +28,20 @@ Have fun solving problems.
 
 ---
 
+
+## Dec 2, 2022 - Fri
+
+**Today I worked on:**
+- REVISIT: 2 sum
+- 2 Sum 2
+- PRAMP: Array quadruplet (very similar to 4 sum
+
+**Reflection:**
+- these little tricks in the 
+
+**Lesson:**
+
+
 ## DEC 1, 2022 - Thur
 
 **Today I worked on:**
