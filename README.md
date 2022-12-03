@@ -28,41 +28,48 @@ Have fun solving problems.
 
 ---
 
-
 ## Dec 2, 2022 - Fri
 
 **Today I worked on:**
+
 - REVISIT: 2 sum
 - 2 Sum 2
-- PRAMP: Array quadruplet (very similar to 4 sum
+- 3 sum
 
 **Reflection:**
-- these little tricks in the 
+
+- these little tricks to these problems that I doubt I would figure out on the spot in an interview... 2 sum 2 and 3 sum are no joke....
 
 **Lesson:**
 
+- using 2 pointers for these problems is helpful
+- sort method in python is O(nlogn) time complexity
+- sort() mutates the list, and is implemented as list.sort()
 
 ## DEC 1, 2022 - Thur
 
 **Today I worked on:**
+
 1. Subtree of another Tree (extension to same_tree)
 2. invert binary tree (another time from memory!!)
 3. backspace string compare (easy - first one in a while I solved on my own, in less than 10 min!)
 
 **Reflection:**
+
 - this was the first LC problem that was actually enjoyable, even tho I didn't quite get the solution. I think the general logic was in my head, but writing the code out, especially the recursive nature of the code is uncertain to me
 - I was on the right path in thinking about using a helper function
 - the recursion is still challenging to me
 - got practice with list comprehension, try/except, and helper functions today
 
 **Lesson:**
+
 - recursion solutions - simply define your edge cases/ return statements as the base case
 - you likely will be returning something in the recursive call
 
 ## Nov 30, 2022 - Wednesday
 
 **Today I worked on:**
-transfer repo from gitlab to github. 
+transfer repo from gitlab to github.
 
 1. same tree e100
 2. invert binary tree in JS
@@ -76,14 +83,13 @@ transfer repo from gitlab to github.
 - in an `if` conditional, nothing something as `if not value` is the way to test if a node is is None/empty. If it is empty, than that statement will return `True`
 - setting a new remote - github. use command `git remote add origin REPO_URL`. I think that is the process
 - Trying to figure out my process here. May need to do this again with another repo that I am trying to trasnfer to GH. History:
-  1. commit - 'transfer to github' 
+  1. commit - 'transfer to github'
   2. git remote add origin
   3. commit 'test push to github'
   4. git remote set-rul 'url'
   5. commit - 'test push to github'
   6. git push --set-upstream origin main
   7. commit - 'fixed filename for invert binary tree JS'
-
 
 ## Nov 29, 2022 - Tuesday
 
