@@ -1,7 +1,7 @@
 """
 https://www.pramp.com/challenge/gKQ5zA52mySBOA5GALj9
 
-12/2/2022
+12/3/2022
 
 --- PROMPT ---
 Given an unsorted array of integers arr and a number s, write a function

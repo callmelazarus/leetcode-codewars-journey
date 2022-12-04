@@ -28,6 +28,27 @@ Have fun solving problems.
 
 ---
 
+## Dec 3, 2022 - Sat
+
+**Today I worked on:**
+
+- 4Sum / array quadruplet
+- conatiner with most water
+- pramp technical interview -> contains duplicates
+
+
+**Reflection:**
+
+- 4Sum is no joke... don't know how I would solve this on my own....
+- reviewing it with kyle was fun
+- solving my problem - contains duplicates was fun as well.
+
+**Lesson:**
+
+- constant space complexity is when you have a condition where you have a set size that you are saving something
+- take your time to think thru things, you will be nervous as you think thru problems
+- think of conditionals that will determine WHEN you move the pointer
+
 ## Dec 2, 2022 - Fri
 
 **Today I worked on:**
