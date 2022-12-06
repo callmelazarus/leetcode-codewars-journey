@@ -27,6 +27,19 @@ Have fun solving problems.
 **Lesson:**
 
 ---
+## Dec 5, 2022 - Mon
+
+**Today I worked on:**
+- longest substring without repeating character
+- running sum of 1d array
+
+**Reflection:**
+- sliding windows problems are just 2 pointers, but considering a subarray of a problem
+
+
+**Lesson:**
+
+
 
 ## Dec 3, 2022 - Sat
 
