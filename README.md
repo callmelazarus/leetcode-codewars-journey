@@ -27,19 +27,43 @@ Have fun solving problems.
 **Lesson:**
 
 ---
+
+## Dec 6, 2022 - Tues
+
+**Today I worked on:**
+
+- 3 LC style problems for Telsa codility challenge
+- Maximum Length of a Concatenated String with Unique Characters
+
+**Reflection:**
+
+- for tech questions, just need to take your time as you go thru the problem
+
+**Lesson:**
+Code challenges
+
+1. write notes as you read thru question
+2. write on a piece of paper if needed
+3. Challenge assumptions with reviewer
+4. write pseudocode
+5. start writing code
+6. test code regularly
+
 ## Dec 5, 2022 - Mon
 
 **Today I worked on:**
+
 - longest substring without repeating character
 - running sum of 1d array
+- find pivot index
 
 **Reflection:**
-- sliding windows problems are just 2 pointers, but considering a subarray of a problem
 
+- sliding windows problems are just 2 pointers, but considering a subarray of a problem
 
 **Lesson:**
 
-
+- sum fxn in python is O(n) time
 
 ## Dec 3, 2022 - Sat
 
@@ -48,7 +72,6 @@ Have fun solving problems.
 - 4Sum / array quadruplet
 - conatiner with most water
 - pramp technical interview -> contains duplicates
-
 
 **Reflection:**
 
