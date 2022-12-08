@@ -28,6 +28,18 @@ Have fun solving problems.
 
 ---
 
+## Dec 7, 2022 - Wed
+
+**Today I worked on:**
+1. combination sum
+
+**Reflection:**
+DFS, backtracking, recursive problems still hard...
+didnt have the gusto in me today to do 2 problems...
+
+**Lesson:**
+
+
 ## Dec 6, 2022 - Tues
 
 **Today I worked on:**
