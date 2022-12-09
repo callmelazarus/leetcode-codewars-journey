@@ -33,10 +33,12 @@ Have fun solving problems.
 **Today I worked on:**
 1. combination sum - cont.
 2. Max length of a concat string with unique characters! Solved without help!!!
+
 Tried to restore gitlab remote connection
 
 **Reflection:**
 Continuing to grok combination sum
+It seems like I am able to push to both gitLab and github now. I will just add/commit a message. And do a `git push`. and then a `git push gitlab main` to push to both repo's.
 
 **Lesson:**
 I can figure these things out, but some of these things take time... and also noticing the little 'trick' that will get me there
