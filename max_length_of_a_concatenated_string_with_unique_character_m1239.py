@@ -70,6 +70,79 @@ class Solution(object):
         return self.ans
 
 
+## MY SOLUTION
+def solution(A):
+
+    # pseudocode:
+    
+    # let's prune the list, by removing any repeat letters in substrings.
+    # let's create a helper function that helps find repeat characters
+    # let's create all possible concatenations - this will be the  challenge
+
+    # loop thru the list in a fashion that will build every possible combination
+    # N, ranges from 1 to 8 
+    # which means, at worst case, we are going to have a large number of possible combinations 
+
+    # with that list of concatenated strings possibilities, I will run another loop, using the 'is_repeat_char' helper function, to count how many concatenated strings will return, which have no repeat characters.
+    # return the length of largest concatenated strings with no repeat characters
+
+    A_pruned = []
+
+    # this may not be required
+    for string in A:
+        if is_repeat_char(string) == 1:
+            A_pruned.append(string)
+
+    # if repeats exist within substrings, easy -> return 0
+    if len(A_pruned) == 0:
+        return 0
+
+    # need to build list of possible concatenated strings using helper function
+    possible_soln = {}
+    n = len(A_pruned)
+    cum = ""
+    # print(A_pruned)
+    for i in range(0, n):
+        cum = cum + A_pruned[i]
+        if is_repeat_char(cum) == 1:
+            possible_soln[cum] = len(cum)
+    return max(possible_soln.values())
+
+
+
+
+# helper function that finds repeats -> returns 1 if repeat doesn't exist. Returns 0 if repeat exists
+def is_repeat_char(string):
+    # build string with characters 
+    list_char = [char for char in string]
+    n_list = len(list_char)
+
+    set_char = set(list_char)
+    n_set = len(set_char)
+
+    # if no repeats exist, return 1
+    if n_list == n_set:
+        return 1
+    return 0
+    
+
+# notes after reading question:
+# A is an array, made up of 'N' strings
+
+# if no string exists, function returns 0
+
+# unique criteria:
+# S is the sum of SOME of the strings from A
+# every LETTER is unique (no repeats)
+# - if the string inside A has repeat words, then it can't be included in solution
+
+# N -> [1, 8] 
+# all letters are lowercase
+# sum of the lenghts of string A < 100
+
+# focus on correctness! less so on efficiency
+
+
 # --- TEST ---
 
 

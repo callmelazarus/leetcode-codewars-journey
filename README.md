@@ -28,6 +28,19 @@ Have fun solving problems.
 
 ---
 
+## Dec 8, 2022 - Thur
+
+**Today I worked on:**
+1. combination sum - cont.
+2. Max length of a concat string with unique characters! Solved without help!!!
+
+**Reflection:**
+Continuing to grok combination sum
+
+**Lesson:**
+I can figure these things out, but some of these things take time... and also noticing the little 'trick' that will get me there
+
+
 ## Dec 7, 2022 - Wed
 
 **Today I worked on:**
