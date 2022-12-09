@@ -33,6 +33,7 @@ Have fun solving problems.
 **Today I worked on:**
 1. combination sum - cont.
 2. Max length of a concat string with unique characters! Solved without help!!!
+Tried to restore gitlab remote connection
 
 **Reflection:**
 Continuing to grok combination sum
