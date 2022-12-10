@@ -28,6 +28,19 @@ Have fun solving problems.
 
 ---
 
+## Dec 9, 2022 - Fri
+
+**Today I worked on:**
+1. binary search - JS
+2. search a 2d matrix
+
+
+**Reflection:**
+Don't forget about while loops!
+
+**Lesson:**
+
+
 ## Dec 8, 2022 - Thur
 
 **Today I worked on:**
