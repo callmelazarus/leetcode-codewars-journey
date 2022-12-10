@@ -28,6 +28,18 @@ Have fun solving problems.
 
 ---
 
+## Dec 10, 2022 - Sat
+
+**Today I worked on:**
+1. Top K frequent elements
+
+
+**Reflection:**
+Started using Akideck to build out flashcards that may present useful information that I learn.
+
+**Lesson:**
+
+
 ## Dec 9, 2022 - Fri
 
 **Today I worked on:**

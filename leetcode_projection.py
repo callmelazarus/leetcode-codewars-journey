@@ -19,10 +19,19 @@ print(f'90 days after graduation is {ninetydays_after_grad}, which is \
 {days_before_90} days from today')
 
 # LC problems per day
-rate_LC = 5
+rate_LC = 2
 
 print(f'LC completed by end of the year: {rate_LC*(before_end_year - before_end_year//7)}, \
 at a rate of {rate_LC} LC problems per day')
 
 print(f'LC completed within 90 days of graduation: {14 + rate_LC*(days_before_90 - days_before_90//7)}, \
 at a rate of {rate_LC} LC problems per day')
+
+# how many unique LC problems have you solved?
+# as of Dec 10
+solved_LC = 27
+
+goal = 150
+
+rate_required = (goal - solved_LC)//(days_before_90)
+print('rate required to meet my goal:', rate_required)
