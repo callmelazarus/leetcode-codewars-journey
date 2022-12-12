@@ -32,10 +32,13 @@ Have fun solving problems.
 
 **Today I worked on:**
 1. Product of array except self
-
+2. Longest consecutive sequence
 
 **Reflection:**
+
+
 **Lesson:**
+There is this pattern where you manipulate things, right at the end of a for loop, which allows you to use that manipulated value in the next for loop.
 
 
 

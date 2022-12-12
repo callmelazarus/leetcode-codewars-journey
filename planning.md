@@ -4,6 +4,7 @@
 - two sum
 - top k frequent elements
 - Product of array except self - m238
+- Longest consecutive sequence - m128
 
 
 # Two Pointers
