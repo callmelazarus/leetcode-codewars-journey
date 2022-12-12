@@ -20,7 +20,7 @@ Have fun solving problems.
 
 ---
 
-## Dec
+## Dec 1
 
 **Today I worked on:**
 **Reflection:**
@@ -28,17 +28,34 @@ Have fun solving problems.
 
 ---
 
+## Dec 12, 2022 - Mon
+
+**Today I worked on:**
+1. Product of array except self
+
+
+**Reflection:**
+**Lesson:**
+
+
+
 ## Dec 10, 2022 - Sat
 
 **Today I worked on:**
 1. Top K frequent elements
 
-
 **Reflection:**
 Started using Akideck to build out flashcards that may present useful information that I learn.
 
 **Lesson:**
-
+Super cool way of counting elements:
+```
+    count = {}
+    # build the counter dict
+    for n in nums:
+        # this is how we count how many times something occurs
+        count[n] = 1 + count.get(n, 0)
+```
 
 ## Dec 9, 2022 - Fri
 

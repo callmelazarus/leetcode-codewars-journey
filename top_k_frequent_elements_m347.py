@@ -2,7 +2,8 @@
 https://leetcode.com/problems/top-k-frequent-elements/
 
 12/9/2022
-array problem
+array problem, dictionary
+unique list trick, where index is repeat count, and value is the numbers associated with repetition
 
 --- PROMPT ---
 Given an integer array nums and an integer k, return the k most frequent elements. You may return the answer in any order.
