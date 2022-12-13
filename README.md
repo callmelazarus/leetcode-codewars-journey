@@ -33,6 +33,7 @@ Have fun solving problems.
 **Today I worked on:**
 1. Product of array except self
 2. Longest consecutive sequence
+3. isomorphic string 
 
 **Reflection:**
 Thinking about how we solve these problems. We break down the properties of the problems we are trying to solve.
@@ -41,7 +42,7 @@ If we are trying to find max sequence - what are the properties of a sequnce? Ar
 **Lesson:**
 There is this pattern where you manipulate things, right at the end of a for loop, which allows you to use that manipulated value in the next for loop.
 Searching thru a set is O(1) time complexity, very fast. Set's don't have any repeat values, and are unordered.
-
+a reminder that you can run for loops, indexes, and lengths on strings
 
 ## Dec 10, 2022 - Sat
 
