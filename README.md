@@ -28,6 +28,20 @@ Have fun solving problems.
 
 ---
 
+
+## Dec 13, 2022 - Tues
+
+**Today I worked on:**
+1. Group anagram
+2. isomorphic string (cont and finished)
+REVISIT: Valid parenthesis. This problem gave me so much trouble in the past, and it did again, but I was able to solve it much quicker.
+
+
+**Reflection:**
+
+**Lesson:**
+you can loop thru strings of the same length using the zip() 
+
 ## Dec 12, 2022 - Mon
 
 **Today I worked on:**
