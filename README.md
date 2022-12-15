@@ -28,26 +28,36 @@ Have fun solving problems.
 
 ---
 
-
-## Dec 13, 2022 - Tues
+## Dec 14, 2022 - Wed
 
 **Today I worked on:**
-1. Group anagram
-2. isomorphic string (cont and finished)
-REVISIT: Valid parenthesis. This problem gave me so much trouble in the past, and it did again, but I was able to solve it much quicker.
-
+- focused on React Native today to finish class before expiration.
 
 **Reflection:**
 
 **Lesson:**
-you can loop thru strings of the same length using the zip() 
+- I need to read documentation, and follow it, in order. I spent nearly 2 hours on config for React Native, and my problem, was that I didn't have the right dependencies installed to run the android emulator.
+
+## Dec 13, 2022 - Tues
+
+**Today I worked on:**
+
+1. Group anagram
+2. isomorphic string (cont and finished)
+   REVISIT: Valid parenthesis. This problem gave me so much trouble in the past, and it did again, but I was able to solve it much quicker.
+
+**Reflection:**
+
+**Lesson:**
+you can loop thru strings of the same length using the zip()
 
 ## Dec 12, 2022 - Mon
 
 **Today I worked on:**
+
 1. Product of array except self
 2. Longest consecutive sequence
-3. isomorphic string 
+3. isomorphic string
 
 **Reflection:**
 Thinking about how we solve these problems. We break down the properties of the problems we are trying to solve.
@@ -61,6 +71,7 @@ a reminder that you can run for loops, indexes, and lengths on strings
 ## Dec 10, 2022 - Sat
 
 **Today I worked on:**
+
 1. Top K frequent elements
 
 **Reflection:**
@@ -68,6 +79,7 @@ Started using Akideck to build out flashcards that may present useful informatio
 
 **Lesson:**
 Super cool way of counting elements:
+
 ```
     count = {}
     # build the counter dict
@@ -79,19 +91,19 @@ Super cool way of counting elements:
 ## Dec 9, 2022 - Fri
 
 **Today I worked on:**
+
 1. binary search - JS
 2. search a 2d matrix
-
 
 **Reflection:**
 Don't forget about while loops!
 
 **Lesson:**
 
-
 ## Dec 8, 2022 - Thur
 
 **Today I worked on:**
+
 1. combination sum - cont.
 2. Max length of a concat string with unique characters! Solved without help!!!
 
@@ -104,10 +116,10 @@ It seems like I am able to push to both gitLab and github now. I will just add/c
 **Lesson:**
 I can figure these things out, but some of these things take time... and also noticing the little 'trick' that will get me there
 
-
 ## Dec 7, 2022 - Wed
 
 **Today I worked on:**
+
 1. combination sum
 
 **Reflection:**
@@ -115,7 +127,6 @@ DFS, backtracking, recursive problems still hard...
 didnt have the gusto in me today to do 2 problems...
 
 **Lesson:**
-
 
 ## Dec 6, 2022 - Tues
 
