@@ -13,7 +13,6 @@ def factorial(num):
 
 # num * num -1 * num - 2 .....
 
-
 num = 4
 # 5 * 4 * 3 * 2 * 1
 res = factorial(num)

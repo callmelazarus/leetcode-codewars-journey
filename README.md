@@ -28,6 +28,21 @@ Have fun solving problems.
 
 ---
 
+## Dec 15, 2022 - Thur
+
+**Today I worked on:**
+- more react native practice
+- pramp - lowest cost (recursion, trees, classes)
+- Binary tree level order traversal
+
+**Reflection:**
+- it was cool to see a BFS solution, using queues. It is still a little magical to me, but in time, it will make sense
+
+**Lesson:**
+- breadth first search will use queues
+- you can initialize queues in python using collections.deque()
+- The largest possible/worst case level of a tree is n/2, where n is the # of nodes in a binary tree
+
 ## Dec 14, 2022 - Wed
 
 **Today I worked on:**
