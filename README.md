@@ -32,8 +32,9 @@ Have fun solving problems.
 
 **Today I worked on:**
 - (review) balancedbinary tree (NTR)
-- diameter of binary tree
-- merge two binary trees
+- diameter of binary tree (NTR)
+- merge two binary trees (NTR)
+- path sum (NTR)
 
 
 **Reflection:**
