@@ -31,13 +31,18 @@ Have fun solving problems.
 ## Dec 19, 2022 - Monday
 
 **Today I worked on:**
-- (review) binary tree (NTR)
+- (review) balancedbinary tree (NTR)
+- diameter of binary tree
+- merge two binary trees
 
 
 **Reflection:**
 Feeling less motivated with the LC. It was a busier weekend, good but busy.
-**Lesson:**
+merge two binary trees is a great recursive example
 
+
+**Lesson:**
+if you want the recursive function to be returning something like a height, make sure you are 'writing' that in the return statement! duh...
 
 ## Dec 16, 2022 - Fri
 
