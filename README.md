@@ -28,9 +28,32 @@ Have fun solving problems.
 
 ---
 
+## Dec 19, 2022 - Monday
+
+**Today I worked on:**
+- (review) binary tree (NTR)
+
+
+**Reflection:**
+Feeling less motivated with the LC. It was a busier weekend, good but busy.
+**Lesson:**
+
+
+## Dec 16, 2022 - Fri
+
+**Today I worked on:**
+- preview: counting bits
+- balanced binary tree (NTR)
+
+
+**Reflection:**
+
+**Lesson:**
+
 ## Dec 15, 2022 - Thur
 
 **Today I worked on:**
+- preview: number of 1 bits
 - more react native practice
 - pramp - lowest cost (recursion, trees, classes)
 - Binary tree level order traversal

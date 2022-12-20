@@ -38,6 +38,7 @@
 - max depth of binary tree
 - same tree
 - subtree of another tree
+- balanced binary tree (12/16/22 NTR)
 
 # Tries
 
