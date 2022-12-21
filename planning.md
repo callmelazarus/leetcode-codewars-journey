@@ -7,6 +7,7 @@
 - Product of array except self - m238
 - Longest consecutive sequence - m128
 - replace elements with greatest element on right e1299
+- Is Subsequence e392
 
 
 # Hashmaps

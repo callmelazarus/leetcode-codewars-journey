@@ -35,6 +35,7 @@ Have fun solving problems.
 - convert sorted array to binary search tree e108 (NTR)
 - valid palindrome 2 e680
 - replace elements with greatest element on right e1299
+- Is Subsequence e392
 
 **Reflection:**
 I actually came up with what I think is a great solution for valid palindrome 2, but couldn't get one of the very last test cases to run. Not going to sweat it, proud of the fact that I solved this one on my own with no help.
