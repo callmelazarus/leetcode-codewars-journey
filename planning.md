@@ -6,6 +6,8 @@
 - top k frequent elements
 - Product of array except self - m238
 - Longest consecutive sequence - m128
+- replace elements with greatest element on right e1299
+
 
 # Hashmaps
 
@@ -16,6 +18,7 @@
 - valid palindrome
 - 3Sum
 - Contains most water
+- valid palindrome 2
 
 # Sliding Window
 
@@ -38,7 +41,12 @@
 - max depth of binary tree
 - same tree
 - subtree of another tree
-- balanced binary tree (12/16/22 NTR)
+- balanced binary tree e110 (12/16/22 NTR)
+- diameter of binary tree e543 (NTR)
+- merge two binary trees e617 (NTR)
+- path sum e112 (NTR)
+- convert sorted array to binary search tree e108 (NTR)
+
 
 # Tries
 

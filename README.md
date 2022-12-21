@@ -32,23 +32,25 @@ Have fun solving problems.
 
 **Today I worked on:**
 (preview) missing Number e268
-- convert sorted array to binary search tree (NTR)
-- valid palindrome 2
+- convert sorted array to binary search tree e108 (NTR)
+- valid palindrome 2 e680
+- replace elements with greatest element on right e1299
 
 **Reflection:**
 I actually came up with what I think is a great solution for valid palindrome 2, but couldn't get one of the very last test cases to run. Not going to sweat it, proud of the fact that I solved this one on my own with no help.
+I tried to do two easier ones, and thankfully was able to get them solved on my own!
 
 **Lesson:**
-
+insert function in python allows you to add to a list in the beginning
 
 
 ## Dec 19, 2022 - Monday
 
 **Today I worked on:**
 - (review) balancedbinary tree (NTR)
-- diameter of binary tree (NTR)
-- merge two binary trees (NTR)
-- path sum (NTR)
+- diameter of binary tree e543 (NTR)
+- merge two binary trees e617 (NTR)
+- path sum e112 (NTR)
 
 
 **Reflection:**
@@ -63,7 +65,7 @@ if you want the recursive function to be returning something like a height, make
 
 **Today I worked on:**
 - preview: counting bits
-- balanced binary tree (NTR)
+- balanced binary tree e110 (NTR)
 
 
 **Reflection:**
@@ -76,7 +78,7 @@ if you want the recursive function to be returning something like a height, make
 - preview: number of 1 bits
 - more react native practice
 - pramp - lowest cost (recursion, trees, classes)
-- Binary tree level order traversal
+- Binary tree level order traversal m102
 
 **Reflection:**
 - it was cool to see a BFS solution, using queues. It is still a little magical to me, but in time, it will make sense
@@ -100,7 +102,7 @@ if you want the recursive function to be returning something like a height, make
 
 **Today I worked on:**
 
-1. Group anagram
+1. Group anagram m49
 2. isomorphic string (cont and finished)
    REVISIT: Valid parenthesis. This problem gave me so much trouble in the past, and it did again, but I was able to solve it much quicker.
 
