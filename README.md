@@ -28,13 +28,16 @@ Have fun solving problems.
 
 ---
 
-## Dec 20
+## Dec 20, 2022 - Tuesday
 
 **Today I worked on:**
 (preview) missing Number e268
-- 
+- convert sorted array to binary search tree (NTR)
+- valid palindrome 2
 
 **Reflection:**
+I actually came up with what I think is a great solution for valid palindrome 2, but couldn't get one of the very last test cases to run. Not going to sweat it, proud of the fact that I solved this one on my own with no help.
+
 **Lesson:**
 
 
