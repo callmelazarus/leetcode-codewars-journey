@@ -20,13 +20,24 @@ Have fun solving problems.
 
 ---
 
-## Dec 1
+## Dec 2
 
 **Today I worked on:**
 **Reflection:**
 **Lesson:**
 
 ---
+
+## Dec 20
+
+**Today I worked on:**
+(preview) missing Number e268
+- 
+
+**Reflection:**
+**Lesson:**
+
+
 
 ## Dec 19, 2022 - Monday
 
