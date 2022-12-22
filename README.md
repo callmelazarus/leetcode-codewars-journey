@@ -33,6 +33,7 @@ Have fun solving problems.
 **Today I worked on:**
 - validate binary search tree m98
 - kth smallest element in a Binary search tree m230
+- move zeroes e283
 
 **Reflection:**
 - I am getting a better feel for when I realize a problem is way over my head
