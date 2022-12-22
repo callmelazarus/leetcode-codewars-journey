@@ -38,6 +38,7 @@ Have fun solving problems.
 **Reflection:**
 - I am getting a better feel for when I realize a problem is way over my head
 - It was nice to get a decent recursive solution setup for m98. Hopefully with each day, these things will get incrementally better.
+- some problems, you have to think of another way the question is asking a particular problem (like move zeroes). think of alternative ways to solve a problem.
 
 **Lesson:**
 - reminder - argument -> function call. parameter -> function definition

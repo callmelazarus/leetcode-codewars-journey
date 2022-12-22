@@ -23,7 +23,7 @@ rate_LC = 2
 
 # how many unique LC problems have you solved?
 # as of Dec 10
-solved_LC = 38
+solved_LC = 39
 
 goal = 150
 print('---------rate check------------')
