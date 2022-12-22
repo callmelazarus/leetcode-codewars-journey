@@ -32,12 +32,18 @@ Have fun solving problems.
 
 **Today I worked on:**
 - validate binary search tree m98
+- kth smallest element in a Binary search tree m230
 
 **Reflection:**
+- I am getting a better feel for when I realize a problem is way over my head
+- It was nice to get a decent recursive solution setup for m98. Hopefully with each day, these things will get incrementally better.
 
 **Lesson:**
 - reminder - argument -> function call. parameter -> function definition
 - one way to represent +/- infinity in python: float("inf") and float("-inf")
+- need to use stack with iterative approach for DFS for tree problems, which means you will be appending and popping, 
+and also likely using the fact that the stack is null or non-null as part of that while loop.
+- In this problem, the while condition is if the stack is non-null OR if the current node is non-null
 
 
 ## Dec 20, 2022 - Tuesday

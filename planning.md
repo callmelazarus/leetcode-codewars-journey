@@ -47,7 +47,8 @@
 - merge two binary trees e617 (NTR)
 - path sum e112 (NTR)
 - convert sorted array to binary search tree e108 (NTR)
-
+- validate binary search tree m98
+- kth smallest element in a Binary search tree m230
 
 # Tries
 

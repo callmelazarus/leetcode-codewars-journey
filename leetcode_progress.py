@@ -19,11 +19,11 @@ print(f'90 days after graduation is {ninetydays_after_grad}, which is \
 ({days_before_90}) days from today')
 
 # LC problems per day
-rate_LC = 3
+rate_LC = 2
 
 # how many unique LC problems have you solved?
 # as of Dec 10
-solved_LC = 28
+solved_LC = 38
 
 goal = 150
 print('---------rate check------------')
