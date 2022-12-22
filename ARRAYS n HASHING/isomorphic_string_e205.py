@@ -3,6 +3,8 @@ https://leetcode.com/problems/isomorphic-strings/description/?envType=study-plan
 
 12/12/2022, 12/13/2022
 
+arrays
+
 --- PROMPT ---
 
 Given two strings s and t, determine if they are isomorphic.

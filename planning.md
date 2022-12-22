@@ -1,35 +1,44 @@
-# Arrays
+# Arrays 
 
 - contains duplicates - e217
 - Valid anagram - e242
+- isomorphic string - e205
+- find pivot index - e724
 - two sum - e1
 - top k frequent elements - m347
 - Product of array except self - m238
 - Longest consecutive sequence - m128
 - replace elements with greatest element on right - e1299
 - Is Subsequence - e392
+- longest commong prefix - e14
 
 
 # Hashmaps
 
 - isomorphic strings - e205
+- group anagrams - m49
+- ransom note - 
 
 # Two Pointers
 
-- valid palindrome
-- 3Sum
-- Contains most water
-- valid palindrome 2
+- valid palindrome - e125
+- valid palindrome 2 - e680
 - move zeroes e283
+- 3Sum - m15
+- 4sum - m18
+- Contains most water - m11
+- two sum 2 - m167
 
 # Sliding Window
 
-- Best time to buy and sell stock
-- Longest substring without repeating char
+- Best time to buy and sell stock - e121
+- Longest substring without repeating char - m3
 
 # Stack
+- valid parenthesis - e20
 
 # Binary Search
+- binary search - e704
 
 # Linked List
 
@@ -51,6 +60,7 @@
 - validate binary search tree - m98
 - kth smallest element in a Binary search tree - m230
 - Lowest Common Ancestor of a Binary Search Tree - m235
+- binary tree level order traversal - m102
 
 
 # Tries
@@ -58,8 +68,11 @@
 # Heap / priority queue
 
 # backtracking
+- combination sum - m39
+- max length of a concatenated string with unique character - m1239
 
 # graphs
+- flood fill - e733
 
 # advanced graphs
 

@@ -5,6 +5,7 @@ https://leetcode.com/problems/group-anagrams/
 hashmap solution
 defaultdict
 ord() - count the characters that occur
+
 --- PROMPT ---
 Given an array of strings strs, group the anagrams together. You can return the answer in any order.
 
