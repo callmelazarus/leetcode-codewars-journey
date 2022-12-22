@@ -28,10 +28,23 @@ Have fun solving problems.
 
 ---
 
+## Dec 21, 2022 - Wednesday
+
+**Today I worked on:**
+- validate binary search tree m98
+
+**Reflection:**
+
+**Lesson:**
+- reminder - argument -> function call. parameter -> function definition
+- one way to represent +/- infinity in python: float("inf") and float("-inf")
+
+
 ## Dec 20, 2022 - Tuesday
 
 **Today I worked on:**
 (preview) missing Number e268
+
 - convert sorted array to binary search tree e108 (NTR)
 - valid palindrome 2 e680
 - replace elements with greatest element on right e1299
@@ -44,20 +57,18 @@ I tried to do two easier ones, and thankfully was able to get them solved on my 
 **Lesson:**
 insert function in python allows you to add to a list in the beginning
 
-
 ## Dec 19, 2022 - Monday
 
 **Today I worked on:**
+
 - (review) balancedbinary tree (NTR)
 - diameter of binary tree e543 (NTR)
 - merge two binary trees e617 (NTR)
 - path sum e112 (NTR)
 
-
 **Reflection:**
 Feeling less motivated with the LC. It was a busier weekend, good but busy.
 merge two binary trees is a great recursive example
-
 
 **Lesson:**
 if you want the recursive function to be returning something like a height, make sure you are 'writing' that in the return statement! duh...
@@ -65,9 +76,9 @@ if you want the recursive function to be returning something like a height, make
 ## Dec 16, 2022 - Fri
 
 **Today I worked on:**
+
 - preview: counting bits
 - balanced binary tree e110 (NTR)
-
 
 **Reflection:**
 
@@ -76,15 +87,18 @@ if you want the recursive function to be returning something like a height, make
 ## Dec 15, 2022 - Thur
 
 **Today I worked on:**
+
 - preview: number of 1 bits
 - more react native practice
 - pramp - lowest cost (recursion, trees, classes)
 - Binary tree level order traversal m102
 
 **Reflection:**
+
 - it was cool to see a BFS solution, using queues. It is still a little magical to me, but in time, it will make sense
 
 **Lesson:**
+
 - breadth first search will use queues
 - you can initialize queues in python using collections.deque()
 - The largest possible/worst case level of a tree is n/2, where n is the # of nodes in a binary tree
@@ -92,11 +106,13 @@ if you want the recursive function to be returning something like a height, make
 ## Dec 14, 2022 - Wed
 
 **Today I worked on:**
+
 - focused on React Native today to finish class before expiration.
 
 **Reflection:**
 
 **Lesson:**
+
 - I need to read documentation, and follow it, in order. I spent nearly 2 hours on config for React Native, and my problem, was that I didn't have the right dependencies installed to run the android emulator.
 
 ## Dec 13, 2022 - Tues
