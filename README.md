@@ -28,6 +28,18 @@ Have fun solving problems.
 
 ---
 
+## Dec 22, 2022 - Thur
+
+**Today I worked on:**
+- Lowest Common Ancestor of a Binary Search Tree m235
+
+
+**Reflection:**
+- Recognized today, that I really do like making things, and I'm so grateful to make this switch to coding. This change is opening my eyes to being an inventor, a tinkerer, and coding will allow me to do this.
+
+**Lesson:**
+understanding the solution sets of a problem, will help you understand a solution
+
 ## Dec 21, 2022 - Wednesday
 
 **Today I worked on:**
