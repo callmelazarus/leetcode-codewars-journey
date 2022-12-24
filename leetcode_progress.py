@@ -22,8 +22,8 @@ print(f'90 days after graduation is {ninetydays_after_grad}, which is \
 rate_LC = 2
 
 # how many unique LC problems have you solved?
-# as of Dec 10
-solved_LC = 39
+# as of Dec 22
+solved_LC = 40
 
 goal = 150
 print('---------rate check------------')

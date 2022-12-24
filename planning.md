@@ -61,6 +61,7 @@
 - kth smallest element in a Binary search tree - m230
 - Lowest Common Ancestor of a Binary Search Tree - m235
 - binary tree level order traversal - m102
+- construct binary tree from preorder and inorder traversal - m105
 
 
 # Tries

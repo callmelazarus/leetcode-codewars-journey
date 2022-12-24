@@ -28,13 +28,33 @@ Have fun solving problems.
 
 ---
 
-## Dec 22, 2022 - Thur
+## Dec 23, 2022 - Fri
 
 **Today I worked on:**
-- Lowest Common Ancestor of a Binary Search Tree m235
+- construct binary tree from preorder and inorder traversal - m105
 
 
 **Reflection:**
+- I have very little interest in LC today, just overall quite tired...
+- m105 actually made a bit of sense to me, but I just needed a bit of nudging on how to form the actual recursive call. I do think I could have figured out the base case if I gave myself a little more time to wrestle with uncertainty.
+
+**Lesson:**
+Traversing a binary Tre
+Inorder => Left, Root, Right.
+Preorder => Root, Left, Right.
+Post order => Left, Right, Root.
+
+
+## Dec 22, 2022 - Thur
+
+**Today I worked on:**
+
+- Lowest Common Ancestor of a Binary Search Tree m235
+
+organizing up files in repo
+
+**Reflection:**
+
 - Recognized today, that I really do like making things, and I'm so grateful to make this switch to coding. This change is opening my eyes to being an inventor, a tinkerer, and coding will allow me to do this.
 
 **Lesson:**
@@ -43,22 +63,24 @@ understanding the solution sets of a problem, will help you understand a solutio
 ## Dec 21, 2022 - Wednesday
 
 **Today I worked on:**
+
 - validate binary search tree m98
 - kth smallest element in a Binary search tree m230
 - move zeroes e283
 
 **Reflection:**
+
 - I am getting a better feel for when I realize a problem is way over my head
 - It was nice to get a decent recursive solution setup for m98. Hopefully with each day, these things will get incrementally better.
 - some problems, you have to think of another way the question is asking a particular problem (like move zeroes). think of alternative ways to solve a problem.
 
 **Lesson:**
+
 - reminder - argument -> function call. parameter -> function definition
 - one way to represent +/- infinity in python: float("inf") and float("-inf")
-- need to use stack with iterative approach for DFS for tree problems, which means you will be appending and popping, 
-and also likely using the fact that the stack is null or non-null as part of that while loop.
+- need to use stack with iterative approach for DFS for tree problems, which means you will be appending and popping,
+  and also likely using the fact that the stack is null or non-null as part of that while loop.
 - In this problem, the while condition is if the stack is non-null OR if the current node is non-null
-
 
 ## Dec 20, 2022 - Tuesday
 
