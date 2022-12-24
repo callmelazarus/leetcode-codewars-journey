@@ -11,6 +11,7 @@
 - replace elements with greatest element on right - e1299
 - Is Subsequence - e392
 - longest commong prefix - e14
+- length of last word - e58
 
 
 # Hashmaps

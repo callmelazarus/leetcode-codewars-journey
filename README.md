@@ -32,6 +32,7 @@ Have fun solving problems.
 
 **Today I worked on:**
 - construct binary tree from preorder and inorder traversal - m105
+- length of last word - e58
 
 
 **Reflection:**
@@ -43,7 +44,7 @@ Traversing a binary Tre
 Inorder => Left, Root, Right.
 Preorder => Root, Left, Right.
 Post order => Left, Right, Root.
-
+split function is O(n) time complexity
 
 ## Dec 22, 2022 - Thur
 
