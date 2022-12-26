@@ -46,6 +46,8 @@
 - reverse linked list e206
 - merge two sorted list e21
 - linked list cycle e141
+- Reorder list m143 (NTR)
+
 
 # Trees
 

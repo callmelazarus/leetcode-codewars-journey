@@ -23,7 +23,10 @@ rate_LC = 2
 
 # how many unique LC problems have you solved?
 # as of Dec 22
-solved_LC = 40
+solved_LC = 43
+
+# ranking as of 12/23/2022
+rank = 1046236
 
 goal = 150
 print('---------rate check------------')
@@ -37,3 +40,4 @@ at a rate of {rate_LC} LC problems per day')
 print(f'LC completed within 90 days of graduation: {solved_LC + rate_LC*(days_before_90 - days_before_90//7)}, \
 at a rate of {rate_LC} LC problems per day')
 
+print(f'Current rank is {rank}, roughly top {rank/5000000*100}%')

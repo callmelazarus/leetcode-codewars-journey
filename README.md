@@ -28,16 +28,30 @@ Have fun solving problems.
 
 ---
 
-## Dec 23, 2022 - Fri
+## Dec 26, Monday - day after Christmas
 
 **Today I worked on:**
-- construct binary tree from preorder and inorder traversal - m105
-- length of last word - e58
+- Reorder list m143 (NTR)
 
 
 **Reflection:**
+- LL is it's own beast
+
+**Lesson:**
+
+
+## Dec 23, 2022 - Fri
+
+**Today I worked on:**
+
+- construct binary tree from preorder and inorder traversal - m105
+- length of last word - e58
+
+**Reflection:**
+
 - I have very little interest in LC today, just overall quite tired...
 - m105 actually made a bit of sense to me, but I just needed a bit of nudging on how to form the actual recursive call. I do think I could have figured out the base case if I gave myself a little more time to wrestle with uncertainty.
+- Submitted my first solution (e58) into discussion on LC.
 
 **Lesson:**
 Traversing a binary Tre
