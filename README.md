@@ -32,13 +32,17 @@ Have fun solving problems.
 
 **Today I worked on:**
 - Reorder list m143 (NTR)
+- Remove Nth Node From End of List - m19
 
 
 **Reflection:**
 - LL is it's own beast
+- It was GREAT to figure out m19 on its own, but it was definitely a grind... It helped to take some breaks and come back to it. I couldn't help but think - how would I approach this on an interview, as the temptation to just walk away from the problem was strong... I need more mental grit.
+- m19 reminded me why we need to have a solution_pointer to the head of the SLL, as well as another pointer. The regular pointer allows you to manipulate the SLL, and the solution_pointer will be used to return as the solution. It was great to do this on my own, without the guidance of a soultion.
+
 
 **Lesson:**
-
+- it helps to write out the problem on the screen, with notes, and print statements that define variables to confirm that I'm doing what I anticipate things correctly.
 
 ## Dec 23, 2022 - Fri
 

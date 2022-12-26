@@ -23,10 +23,13 @@ rate_LC = 2
 
 # how many unique LC problems have you solved?
 # as of Dec 22
-solved_LC = 43
+solved_LC = 48
 
 # ranking as of 12/23/2022
-rank = 1046236
+rank_prev = 1046236
+
+# ranking as of 12/26/2022
+rank = 1004934
 
 goal = 150
 print('---------rate check------------')
