@@ -5,7 +5,9 @@ https://leetcode.com/problems/climbing-stairs/description/
 dynamic programming
 
 --- PROMPT ---
+You are climbing a staircase. It takes n steps to reach the top.
 
+Each time you can either climb 1 or 2 steps. In how many distinct ways can you climb to the top?
 
 --- LESSONS ---
 Place data structures that you will manipulate outside of any loops (or else you will reset

@@ -31,42 +31,52 @@ Have fun solving problems.
 ## Dec 28, 2022 - Wednesday
 
 **Today I worked on:**
+
 - climbing stairs - e70
+- Coin Change - m322
 
 **Reflection:**
+
 - e70 I solved on my own, but I did recall the little hint from Jon's walkthru, that the solution was essentially a running sum. I am not sure if I could have seen that running sum appear as the solution on my own
 
 **Lesson:**
-- you want to place your cache's outside of for loops, not inside for loops
+
+- Place data structures that you will manipulate outside of any loops (or else you will reset
+  that data structure)
+
+- It helped to write out the various solutions to see patterns, as well as also typing out
+  what I anticipate the code to spit out.
+- If decisions are being made, try to solve the problem using a decision tree. When you think of 'tree', you can think of DFS, BFS.
 
 ## Dec 27 - Tuesday
 
 **Today I worked on:**
+
 - house robber - m198 (NTR)
 
-
 **Reflection:**
+
 - m198 is a dp problem that is not of the sort that I recall from HR days.
 - m198 def needs a revisit. It is kind of making sense, but is still a bit magical
 
 **Lesson:**
 
-
 ## Dec 26, Monday - day after Christmas
 
 **Today I worked on:**
+
 - Reorder list m143 (NTR)
 - Remove Nth Node From End of List - m19
 
-
 **Reflection:**
+
 - LL is it's own beast
 - It was GREAT to figure out m19 on its own, but it was definitely a grind... It helped to take some breaks and come back to it. I couldn't help but think - how would I approach this on an interview, as the temptation to just walk away from the problem was strong... I need more mental grit.
 - m19 reminded me why we need to have a solution_pointer to the head of the SLL, as well as another pointer. The regular pointer allows you to manipulate the SLL, and the solution_pointer will be used to return as the solution. It was great to do this on my own, without the guidance of a soultion.
 - today was a specifically harder day to be productive. Dealing with headaches and fatigue...
 
-
 **Lesson:**
+
 - it helps to write out the problem on the screen, with notes, and print statements that define variables to confirm that I'm doing what I anticipate things correctly.
 
 ## Dec 23, 2022 - Fri

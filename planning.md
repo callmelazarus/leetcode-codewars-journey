@@ -83,6 +83,8 @@
 # 1D Dynamic programming
 - climbing stairs - e70
 - house robber - m198
+- Coin Change - m322
+
 
 
 # 2D dynamic programming
