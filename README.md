@@ -28,6 +28,17 @@ Have fun solving problems.
 
 ---
 
+## Dec 28, 2022 - Wednesday
+
+**Today I worked on:**
+- climbing stairs - e70
+
+**Reflection:**
+- e70 I solved on my own, but I did recall the little hint from Jon's walkthru, that the solution was essentially a running sum. I am not sure if I could have seen that running sum appear as the solution on my own
+
+**Lesson:**
+- you want to place your cache's outside of for loops, not inside for loops
+
 ## Dec 27 - Tuesday
 
 **Today I worked on:**

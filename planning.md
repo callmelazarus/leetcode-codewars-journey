@@ -81,6 +81,7 @@
 # advanced graphs
 
 # 1D Dynamic programming
+- climbing stairs - e70
 - house robber - m198
 
 
