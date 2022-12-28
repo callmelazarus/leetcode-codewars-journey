@@ -81,6 +81,8 @@
 # advanced graphs
 
 # 1D Dynamic programming
+- house robber - m198
+
 
 # 2D dynamic programming
 
