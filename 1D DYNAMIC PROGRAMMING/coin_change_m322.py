@@ -60,14 +60,19 @@ class Solution(object):
         :rtype: int
         """
 
+        # cache - ways to get to the amount
+        # [0, 1, 1, 2, 2, 1, 2, 2, 3, 3, 2, 3]
+        # index - reflect the goal amount
+        # [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
+
         # we are going to build a list
         # index is related to amount value
         # value of list is min combinations to get to amount value
-        cache = [amount + 1] * (amount + 1) # [0, .... amount]
+        cache = [amount + 1] * (amount + 1) # [[amount+1],[amount+1], ... amount+1]
 
         # if amt is 0, return 0
         cache[0] = 0
-
+        print('init cahce', cache)
         # bottom up approach, from 1 to amount
         # build a solution for every possible amount, from 1, to the amount given
         for a in range(1, amount + 1):
@@ -75,8 +80,10 @@ class Solution(object):
             for c in coins:
                 # if the diff between the amount and coin is positive
                 if a - c >= 0:
-                    # -----> recurrance relationship (meat of solution) <-----
-                    cache[a] = min(cache[a], 1 + cache[a-c])
+                    # recurrance relationship (meat of solution)
+                    # cache[a-c] is the DP part of this problem
+                    cache[a] = min(cache[a],1 + cache[a-c])
+
 
 
         # return the cache value associated with amount

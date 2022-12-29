@@ -28,6 +28,15 @@ Have fun solving problems.
 
 ---
 
+## Dec 29, 2022 - Thursday
+
+**Today I worked on:**
+
+- coin change 2 - m518
+
+**Reflection:**
+**Lesson:**
+
 ## Dec 28, 2022 - Wednesday
 
 **Today I worked on:**
