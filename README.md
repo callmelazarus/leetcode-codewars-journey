@@ -33,9 +33,14 @@ Have fun solving problems.
 **Today I worked on:**
 
 - coin change 2 - m518
+- minstack - m155
 
 **Reflection:**
+
+- getting back into oop with minstack, good practice, but it is telling that again, I am having some issues with working with objects.
+
 **Lesson:**
+- Read the problem carefully - the pop method will 'remove' the last element (and return it) but the top method is there to just retrieve the last element
 
 ## Dec 28, 2022 - Wednesday
 
