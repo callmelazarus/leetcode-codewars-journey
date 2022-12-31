@@ -20,13 +20,19 @@ Have fun solving problems.
 
 ---
 
-## Dec 2
+## Jan 
 
 **Today I worked on:**
 **Reflection:**
 **Lesson:**
 
 ---
+## Dec 31, 2022 - Sat
+
+**Today I worked on:**
+- Generate Parenthesis - m22
+**Reflection:**
+**Lesson:**
 
 ## Dec 29, 2022 - Thursday
 
