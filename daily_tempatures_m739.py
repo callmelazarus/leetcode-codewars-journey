@@ -25,8 +25,15 @@ Given an array of integers temperatures represents the daily temperatures, retur
         
         if no value ahead of it is larger, the output array should not 0
 
-
-
+PROCESS:
+        We have to DS's. The output array, which is initalized with all 0's.
+        And we have a stack.
+        This stack will contain pairs of both temperatures and index
+        We are going to compare the temperatures as you loop, with the prev element in the stack (0th index, which is the temp)
+        if the interand temp is larger - initialize while loop
+            we pop the last item
+            and based on that last item, we can utilize the stackIndex to update the output list
+        at the end of that check, we append to the stack (temp, t; index, i)
 """
 # --- MY SOLUTION ---
 class Solution(object):
