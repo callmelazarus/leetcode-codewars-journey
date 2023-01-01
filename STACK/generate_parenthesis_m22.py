@@ -35,7 +35,7 @@ No need to pass in parameters in nested functions
    /    \   \  \  \
    )     )   )  )  ) 
 
-   Process:
+   PROCESS:
    Considering what makes up a valid solution, 
    recognize that you will be working with the number of open and closed paren
    These two arguments are going to be used as conditions for the recursion

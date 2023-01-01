@@ -37,6 +37,9 @@
 
 # Stack
 - valid parenthesis - e20
+- minstack - m155
+- Generate Parenthesis - m22
+- Daily Temperatures -m739
 
 # Binary Search
 - binary search - e704
@@ -74,6 +77,8 @@
 # backtracking
 - combination sum - m39
 - max length of a concatenated string with unique character - m1239
+- Generate Parenthesis - m22
+
 
 # graphs
 - flood fill - e733
@@ -84,7 +89,7 @@
 - climbing stairs - e70
 - house robber - m198
 - Coin Change - m322
-
+- coin change 2 - m518
 
 
 # 2D dynamic programming
