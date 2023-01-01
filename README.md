@@ -32,10 +32,12 @@ Have fun solving problems.
 **Today I worked on:**
 - Generate Parenthesis - m22
 - Daily Temperatures -m739
+- baseball game - e682
 
 **Reflection:**
 - it is still very hard to translate these thoughts into code... 
 - I still don't feel like i can solve these problems on my own..
+- baseball game is too easy
 
 **Lesson:**
 - enumerate helps you loop, giving you the index, and the iterand in that order

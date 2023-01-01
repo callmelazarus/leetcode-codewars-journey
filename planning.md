@@ -36,6 +36,7 @@
 - Longest substring without repeating char - m3
 
 # Stack
+- baseball game - e682 - too easy....
 - valid parenthesis - e20
 - minstack - m155
 - Generate Parenthesis - m22
