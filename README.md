@@ -27,11 +27,24 @@ Have fun solving problems.
 **Lesson:**
 
 ---
+
+## Jan 2, 2022 - Monday
+
+**Today I worked on:**
+- word pattern - e290
+
+**Reflection:**
+
+
+**Lesson:**
+
+
+
 ## Dec 31, 2022 - Sat
 
 **Today I worked on:**
 - Generate Parenthesis - m22
-- Daily Temperatures -m739
+- Daily Temperatures -m739 (NTR)
 - baseball game - e682
 
 **Reflection:**
@@ -41,6 +54,7 @@ Have fun solving problems.
 
 **Lesson:**
 - enumerate helps you loop, giving you the index, and the iterand in that order
+- the data structure you setup matters (e290). pattern
 
 
 ## Dec 29, 2022 - Thursday

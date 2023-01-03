@@ -19,6 +19,7 @@
 - isomorphic strings - e205
 - group anagrams - m49
 - ransom note - 
+- word pattern -e290
 
 # Two Pointers
 
@@ -30,17 +31,17 @@
 - Contains most water - m11
 - two sum 2 - m167
 
-# Sliding Window
-
-- Best time to buy and sell stock - e121
-- Longest substring without repeating char - m3
-
 # Stack
 - baseball game - e682 - too easy....
 - valid parenthesis - e20
 - minstack - m155
 - Generate Parenthesis - m22
 - Daily Temperatures -m739
+
+# Sliding Window
+
+- Best time to buy and sell stock - e121
+- Longest substring without repeating char - m3
 
 # Binary Search
 - binary search - e704
@@ -73,24 +74,26 @@
 
 # Tries
 
-# Heap / priority queue
 
 # backtracking
 - combination sum - m39
 - max length of a concatenated string with unique character - m1239
 - Generate Parenthesis - m22
 
-
 # graphs
 - flood fill - e733
-
-# advanced graphs
 
 # 1D Dynamic programming
 - climbing stairs - e70
 - house robber - m198
 - Coin Change - m322
 - coin change 2 - m518
+
+
+# Heap / priority queue
+
+
+# advanced graphs
 
 
 # 2D dynamic programming
