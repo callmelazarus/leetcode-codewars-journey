@@ -45,6 +45,8 @@
 
 # Binary Search
 - binary search - e704
+- Find Minimum in Rotated Sorted Array - m153
+
 
 # Linked List
 

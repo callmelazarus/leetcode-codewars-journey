@@ -28,15 +28,27 @@ Have fun solving problems.
 
 ---
 
+## Jan 3, 2022 - Tues
+
+**Today I worked on:**
+- Find Minimum in Rotated Sorted Array - m153
+
+**Reflection:**
+- harder to get back into things after the holidays
+
+**Lesson:**
+
 ## Jan 2, 2022 - Monday
 
 **Today I worked on:**
 - word pattern - e290
 
+
 **Reflection:**
 
 
 **Lesson:**
+- using zip in your loop allows you to loop thru two iterables at the same time
 
 
 
