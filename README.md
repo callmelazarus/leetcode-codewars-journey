@@ -28,10 +28,21 @@ Have fun solving problems.
 
 ---
 
+## Jan 4, 2023 - Wed
+
+**Today I worked on:**
+- Find Minimum in Rotated Sorted Array - m153 
+
+**Reflection:**
+- solved the problem that I had yesterday by RETURNING the recursive call, not simply running the recursive call
+
+**Lesson:**
+- return the recursive call if you want to return that data
+
 ## Jan 3, 2022 - Tues
 
 **Today I worked on:**
-- Find Minimum in Rotated Sorted Array - m153
+- Find Minimum in Rotated Sorted Array - m153 - didnt finish
 
 **Reflection:**
 - harder to get back into things after the holidays

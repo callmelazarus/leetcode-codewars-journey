@@ -20,19 +20,12 @@ You must write an algorithm that runs in O(log n) time.
 
 
 --- LESSONS ---
+- return the recursive call if you want to return that data
+
 
 --- QUESTIONS ---
 
 --- PSEUDOCODE ---
-
-
-
-
-"""
-# --- MY SOLUTION ---
-class Solution:
-    def findMin(self, nums):
-        """
         input -> list of int, rotated
 
         output -> return smallest int
@@ -74,43 +67,40 @@ class Solution:
         check mid against first value to determine if you check right side,
         or left side
 
-        """
-        # check unsorted case
-        if nums[0] < nums[-1]:
+
+
+
+"""
+# --- MY SOLUTION ---
+class Solution:
+    def findMin(self, nums):
+
+        # check unsorted case, or if nums length is just 1
+        if nums[0] < nums[-1] or len(nums) == 1:
             return nums[0]
 
         def helper(l, r):
+            # find min
             mid = (r + l) // 2
-            # print('mid', mid)
-            # print('l:', l)
-            # print('r:', r)
-            # print(nums[mid-1]> nums[mid])
 
             # base case
             if nums[mid-1] > nums[mid]:
-                # print('here')
-                # print(nums, nums[mid], mid)
                 return nums[mid]
-
             
+            # case where you find an unrotated subset
             if nums[l] < nums[r]:
-                # print('here 2')
-                # print(nums, nums[l], l)
                 return nums[l]
 
             # check right side if initial val smaller than mid 
-            if nums[l] < nums[mid]:
+            if nums[l] <= nums[mid]:
                 # check right side
-                helper(mid +1, r)
+                return helper(mid +1, r)
             
             # check left side
             if nums[l] > nums[mid]:
-                helper(l, mid)
+                return helper(l, mid)
         
         return helper(0, len(nums)-1)
-
-
-        
 
 # --- TEST ---
 b = [3, 4, 5, 1, 2]
