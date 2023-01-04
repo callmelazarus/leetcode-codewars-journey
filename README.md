@@ -35,6 +35,7 @@ Have fun solving problems.
 
 **Reflection:**
 - harder to get back into things after the holidays
+- having such a terrible time with m153. My solution is working, but my recursive call keeps mysteriously returning none. However, when I do print statements, the base case is working correctly.... I am returning the call to the helper function as well. This is so frustrating... it looks like I have the answer, but it just isn't working....
 
 **Lesson:**
 
