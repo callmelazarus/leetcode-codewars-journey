@@ -1,3 +1,10 @@
+/*
+
+naive solution
+O(n^2) - quadratic time
+
+*/
+
 function same(arr1, arr2){
     if(arr1.length !== arr2.length){
         return false;
