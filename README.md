@@ -32,9 +32,11 @@ Have fun solving problems.
 
 **Today I worked on:**
 - Find Minimum in Rotated Sorted Array - m153 
+- Search insert position - e35
 
 **Reflection:**
 - solved the problem that I had yesterday by RETURNING the recursive call, not simply running the recursive call
+- I feel like I often need to add an easy LC problem here and there to boost my moral
 
 **Lesson:**
 - return the recursive call if you want to return that data

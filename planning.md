@@ -45,6 +45,7 @@
 
 # Binary Search
 - binary search - e704
+- Search insert position - e35
 - Find Minimum in Rotated Sorted Array - m153
 
 
