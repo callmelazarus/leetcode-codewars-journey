@@ -27,6 +27,13 @@ Have fun solving problems.
 **Lesson:**
 
 ---
+## Jan 5, 2023 - Thursday
+
+**Today I worked on:**
+**Reflection:**
+**Lesson:**
+
+
 
 ## Jan 4, 2023 - Wed
 
@@ -37,6 +44,7 @@ Have fun solving problems.
 **Reflection:**
 - solved the problem that I had yesterday by RETURNING the recursive call, not simply running the recursive call
 - I feel like I often need to add an easy LC problem here and there to boost my moral
+- today definitely feeling a lot more discouragement in this whole job hunt.
 
 **Lesson:**
 - return the recursive call if you want to return that data
