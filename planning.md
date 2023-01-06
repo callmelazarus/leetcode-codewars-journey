@@ -16,6 +16,7 @@
 
 # Hashmaps
 
+- same refactored solution (udemy JS DSA)
 - isomorphic strings - e205
 - group anagrams - m49
 - ransom note - 
@@ -23,6 +24,7 @@
 
 # Two Pointers
 
+- Count unique values (udemy JS DSA)
 - valid palindrome - e125
 - valid palindrome 2 - e680
 - move zeroes e283
@@ -40,6 +42,7 @@
 
 # Sliding Window
 
+- max subarray sum (udemy JS DSA)
 - Best time to buy and sell stock - e121
 - Longest substring without repeating char - m3
 

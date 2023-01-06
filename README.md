@@ -30,7 +30,17 @@ Have fun solving problems.
 ## Jan 5, 2023 - Thursday
 
 **Today I worked on:**
+- udemy JS DSA: problem solving patterns. 
+  - frequency counters
+  - multiple pointers
+  - sliding windows
+  - divide and conquer intro
+
+
 **Reflection:**
+
+
+
 **Lesson:**
 
 

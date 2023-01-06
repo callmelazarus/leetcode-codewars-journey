@@ -3,6 +3,8 @@
 https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/learn/lecture/11183952#questions/7860030
 
 1/5/2022
+sliding window
+
 
 --- PROMPT ---
 Find the largets sum of consecutive values
