@@ -38,11 +38,11 @@ Have fun solving problems.
 
 
 **Reflection:**
-
-
+- worked on udemy course at Andrew's place. It was a good refresher, especially in doing some of the problems in JS
 
 **Lesson:**
-
+0 is falsy in JS
+- binary search - the left pointer should be mid + 1, and right pointer is just mid. This is because we ultimately don't want to include the midpoint, since midpoint is related to the solution condition.
 
 
 ## Jan 4, 2023 - Wed
