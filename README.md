@@ -6,11 +6,12 @@ Needcode - blind 75
 https://neetcode.io/practice
 
 # Goal:
-
-MIN: 1 a day // results in roughly 39 total by Jan 1, 2023
-Goal: 3 a day // results in roughly 117 total by Jan 1, 2023
-
+1 min per day
 Off on Sundays
+
+Milestone 1: 39 by Jan 1 [Goal exceeded! hit 50 by new year]
+Milestone 2: 95 by Feb 12 
+Milestone 3: 130 by March 14 
 
 # Why:
 
@@ -27,6 +28,29 @@ Have fun solving problems.
 **Lesson:**
 
 ---
+
+## Jan 9, 2023 - Monday
+
+**Today I worked on:**
+- setting up my photography portfolio - @gophotosocal
+
+**Reflection:**
+- definitely quite fatigued today...
+
+**Lesson:**
+
+
+## Jan 6, 2023 - Friday
+
+**Today I worked on:**
+- I am reconsidering restructuring my schedule/process for finding a job. It has been 53 days since graduation at this point. The udemy course is in some sense taking the place of LC.
+
+**Reflection:**
+
+**Lesson:**
+- strings are IMMUTABLE - so you need to use methods like slice, substring to make copies of strings
+- Copy objects using object.assign OR spread operator ...
+
 ## Jan 5, 2023 - Thursday
 
 **Today I worked on:**
