@@ -3,7 +3,9 @@ https://leetcode.com/problems/arranging-coins/description/
 
 1/10/2022
 
-binary search mathmatics
+binary search 
+math
+not feasible to do without some assistance (addmittadly by neetcode)
 
 --- PROMPT ---
 You have n coins and you want to build a staircase with these coins. The staircase consists of k rows where the ith row has exactly i coins. The last row of the staircase may be incomplete.

@@ -29,6 +29,32 @@ Have fun solving problems.
 
 ---
 
+## Jan 11, 2023 - Wednesday
+
+**Today I worked on:**
+- search a 2D matrix - m74
+
+**Reflection:**
+
+**Lesson:**
+You can create pointers for a matrix, using the len of the matrix, and the len of a particular entry in that matrix
+
+Interesting looping breaking scheme. We have else: break. To check if that did not fire, we do a conditional 
+of the loop conditional using
+' if not (top <= bot) ' -> which will be 'if not False' -> 'if True'
+Because top <= bot is no longer true -> which is why we broke out of the while loop
+
+
+        # if we never broke out of loop, and we have never been able to find the target value
+        # if we didn't break out of loop in the else statment, then top <= bot if FALSE
+        # therefore, note that for it to return true, you write
+        # if not (top <= bot) -> which will return TRUE if we didn't 'break out' using else
+
+        if not (top <= bot): -> this will be ' if not False'
+            print(top <= bot)
+            return False
+
+
 ## Jan 10, 2023 - Tuesday
 
 **Today I worked on:**
