@@ -29,13 +29,24 @@ Have fun solving problems.
 
 ---
 
+## Jan 10, 2023 - Tuesday
+
+**Today I worked on:**
+- Connected with Jon, Brendan, Chris, and Kindred external committee
+- arranging coins - e441
+
+**Reflection:**
+- there is a huge mathmatical relationship needed to complete arranging coins that is not reasonable to know given in an interview
+
+**Lesson:**
+
 ## Jan 9, 2023 - Monday
 
 **Today I worked on:**
 - setting up my photography portfolio - @gophotosocal
 
 **Reflection:**
-- definitely quite fatigued today...
+- definitely quite fatigued today...did not feel so great
 
 **Lesson:**
 
