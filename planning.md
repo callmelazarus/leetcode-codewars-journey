@@ -49,7 +49,10 @@
 # Binary Search
 - binary search - e704
 - Search insert position - e35
+- arranging coins - e441
 - Find Minimum in Rotated Sorted Array - m153
+- search a 2D matrix - m74
+- koko eating bananas - m875
 
 
 # Linked List

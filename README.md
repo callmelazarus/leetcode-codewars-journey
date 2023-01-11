@@ -33,14 +33,19 @@ Have fun solving problems.
 
 **Today I worked on:**
 - search a 2D matrix - m74
+- koko eating bananas - m875
 
 **Reflection:**
+koko eating bananas is a great binary search problem, if you want to see more logic, embedded in the binary search itself
+
 
 **Lesson:**
-You can create pointers for a matrix, using the len of the matrix, and the len of a particular entry in that matrix
+LC - python3 seems to have more functionality than python (no surprise). But I am getting failures in python using the same code, but success when running python3
 
-Interesting looping breaking scheme. We have else: break. To check if that did not fire, we do a conditional 
-of the loop conditional using
+- m74
+- You can create pointers for a matrix, using the len of the matrix, and the len of a particular entry in that matrix
+
+- Interesting looping breaking scheme. We have else: break. To check if that did not fire, we do a conditional of the loop conditional using
 ' if not (top <= bot) ' -> which will be 'if not False' -> 'if True'
 Because top <= bot is no longer true -> which is why we broke out of the while loop
 
@@ -53,6 +58,10 @@ Because top <= bot is no longer true -> which is why we broke out of the while l
         if not (top <= bot): -> this will be ' if not False'
             print(top <= bot)
             return False
+
+- koko eating bananas m875
+- if you have a sorted array that you are searching - THINK BINARY SEARCH
+- on the surface, this doesn't seem like a binary search problem... it is interesting to think of how when you try to optimize for a solution by establishing a list of potential answers (k_list) which is sorted, binary search comes into play
 
 
 ## Jan 10, 2023 - Tuesday
