@@ -29,6 +29,15 @@ Have fun solving problems.
 
 ---
 
+## Jan 12, 2023 - Thursday
+
+**Today I worked on:**
+- squares in a sorted array -e977
+- 
+**Reflection:**
+**Lesson:**
+
+
 ## Jan 11, 2023 - Wednesday
 
 **Today I worked on:**

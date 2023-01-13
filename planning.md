@@ -53,6 +53,7 @@
 - Find Minimum in Rotated Sorted Array - m153
 - search a 2D matrix - m74
 - koko eating bananas - m875
+- squares in a sorted array -e977
 
 
 # Linked List
