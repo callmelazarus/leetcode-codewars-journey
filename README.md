@@ -33,8 +33,12 @@ Have fun solving problems.
 
 **Today I worked on:**
 - squares in a sorted array -e977
-- 
+- (started) pascals triangle -e118
+
+
 **Reflection:**
+
+
 **Lesson:**
 
 
