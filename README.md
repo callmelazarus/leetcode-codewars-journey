@@ -21,11 +21,16 @@ Have fun solving problems.
 
 ---
 
-## Jan 
+## Jan 13, 2023 - Friday
 
 **Today I worked on:**
+- pascals triangle -e118
+
 **Reflection:**
+- it felt great solving pascals triangle on my own. very rewarding. It wasn't the most straightforward problem, but I was able to solve it within 30 minutes.
+
 **Lesson:**
+- take your time, test your solutions.
 
 ---
 

@@ -5,6 +5,7 @@
 - isomorphic string - e205
 - find pivot index - e724
 - two sum - e1
+- pascals triangle -e118
 - top k frequent elements - m347
 - Product of array except self - m238
 - Longest consecutive sequence - m128

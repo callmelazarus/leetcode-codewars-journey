@@ -25,17 +25,18 @@ print(f'6 months from graduation is May 14 which is (', (sixMonths-today).days, 
 rate_LC = 1
 
 # how many unique LC problems have you solved?
-# as of Dec 30 - 50
-solved_LC = 56
+# as of 12/30:50 | 1/13: 60
+
+solved_LC = 60
 
 # ranking as of 12/26/2022 - 1004934
 # ranking as of 12/30/2022 - 932310
-rank_prev = 932310
+rank_prev = 862373
 
-# ranking as of 12/30/2022
-rank = 862373
+# ranking as of 1//2022
+rank = 830261
 
-goal = 150
+goal = 95
 print('---------rate check------------')
 
 rate_required = (goal - solved_LC)//(days_before_90)
