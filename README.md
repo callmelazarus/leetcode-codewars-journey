@@ -25,6 +25,7 @@ Have fun solving problems.
 
 **Today I worked on:**
 - pascals triangle -e118
+- remove element -e27
 
 **Reflection:**
 - it felt great solving pascals triangle on my own. very rewarding. It wasn't the most straightforward problem, but I was able to solve it within 30 minutes.
