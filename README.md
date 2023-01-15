@@ -6,12 +6,13 @@ Needcode - blind 75
 https://neetcode.io/practice
 
 # Goal:
+
 1 min per day
 Off on Sundays
 
 Milestone 1: 39 by Jan 1 [Goal exceeded! hit 50 by new year]
-Milestone 2: 95 by Feb 12 
-Milestone 3: 130 by March 14 
+Milestone 2: 95 by Feb 12
+Milestone 3: 130 by March 14
 
 # Why:
 
@@ -19,18 +20,48 @@ Be ready when my name is called in an interview.
 Grow as a developer.
 Have fun solving problems.
 
+## Jan
+
+**Today I worked on:**
+
+**Reflection:**
+**Lesson:**
+
 ---
+
+## Jan 14, 2023 - Sat
+
+**Today I worked on:**
+
+- watched an intro video on NumPy.
+- valid sudoku -m36
+
+  **Reflection:**
+- I was proud of actually figuring out most of valid sudoku on my own, but couldn't automate the subbox routine. Turns out there was this crazy integer operation // that you could use to associate the subboxes with indexes. NC's solution also uses collection defaultdict(sets), which is amazing. the value of the dictionary is a hashset...
+
+**Lesson:**
+
+- NumPy is a python library that you would use to work with large arrays. 
+- collections default dict is VERY similar to a dict, BUT will never raise a keyerror if a value doesn't exist
+- default dict is a subdivision of the dict class
+
+- the defaultdict can have values as hashset's which is so cool. The value is now a hashset, which you can add to
+
+
 
 ## Jan 13, 2023 - Friday
 
 **Today I worked on:**
+
 - pascals triangle -e118
 - remove element -e27
 
 **Reflection:**
+
 - it felt great solving pascals triangle on my own. very rewarding. It wasn't the most straightforward problem, but I was able to solve it within 30 minutes.
 
 **Lesson:**
+
 - take your time, test your solutions.
 
 ---
@@ -38,25 +69,23 @@ Have fun solving problems.
 ## Jan 12, 2023 - Thursday
 
 **Today I worked on:**
+
 - squares in a sorted array -e977
 - (started) pascals triangle -e118
 
-
 **Reflection:**
 
-
 **Lesson:**
-
 
 ## Jan 11, 2023 - Wednesday
 
 **Today I worked on:**
+
 - search a 2D matrix - m74
 - koko eating bananas - m875
 
 **Reflection:**
 koko eating bananas is a great binary search problem, if you want to see more logic, embedded in the binary search itself
-
 
 **Lesson:**
 LC - python3 seems to have more functionality than python (no surprise). But I am getting failures in python using the same code, but success when running python3
@@ -65,31 +94,31 @@ LC - python3 seems to have more functionality than python (no surprise). But I a
 - You can create pointers for a matrix, using the len of the matrix, and the len of a particular entry in that matrix
 
 - Interesting looping breaking scheme. We have else: break. To check if that did not fire, we do a conditional of the loop conditional using
-' if not (top <= bot) ' -> which will be 'if not False' -> 'if True'
-Because top <= bot is no longer true -> which is why we broke out of the while loop
+  ' if not (top <= bot) ' -> which will be 'if not False' -> 'if True'
+  Because top <= bot is no longer true -> which is why we broke out of the while loop
 
+          # if we never broke out of loop, and we have never been able to find the target value
+          # if we didn't break out of loop in the else statment, then top <= bot if FALSE
+          # therefore, note that for it to return true, you write
+          # if not (top <= bot) -> which will return TRUE if we didn't 'break out' using else
 
-        # if we never broke out of loop, and we have never been able to find the target value
-        # if we didn't break out of loop in the else statment, then top <= bot if FALSE
-        # therefore, note that for it to return true, you write
-        # if not (top <= bot) -> which will return TRUE if we didn't 'break out' using else
-
-        if not (top <= bot): -> this will be ' if not False'
-            print(top <= bot)
-            return False
+          if not (top <= bot): -> this will be ' if not False'
+              print(top <= bot)
+              return False
 
 - koko eating bananas m875
 - if you have a sorted array that you are searching - THINK BINARY SEARCH
 - on the surface, this doesn't seem like a binary search problem... it is interesting to think of how when you try to optimize for a solution by establishing a list of potential answers (k_list) which is sorted, binary search comes into play
 
-
 ## Jan 10, 2023 - Tuesday
 
 **Today I worked on:**
+
 - Connected with Jon, Brendan, Chris, and Kindred external committee
 - arranging coins - e441
 
 **Reflection:**
+
 - there is a huge mathmatical relationship needed to complete arranging coins that is not reasonable to know given in an interview
 
 **Lesson:**
@@ -97,63 +126,72 @@ Because top <= bot is no longer true -> which is why we broke out of the while l
 ## Jan 9, 2023 - Monday
 
 **Today I worked on:**
+
 - setting up my photography portfolio - @gophotosocal
 
 **Reflection:**
+
 - definitely quite fatigued today...did not feel so great
 
 **Lesson:**
 
-
 ## Jan 6, 2023 - Friday
 
 **Today I worked on:**
+
 - I am reconsidering restructuring my schedule/process for finding a job. It has been 53 days since graduation at this point. The udemy course is in some sense taking the place of LC.
 
 **Reflection:**
 
 **Lesson:**
+
 - strings are IMMUTABLE - so you need to use methods like slice, substring to make copies of strings
 - Copy objects using object.assign OR spread operator ...
 
 ## Jan 5, 2023 - Thursday
 
 **Today I worked on:**
-- udemy JS DSA: problem solving patterns. 
+
+- udemy JS DSA: problem solving patterns.
   - frequency counters
   - multiple pointers
   - sliding windows
   - divide and conquer intro
 
-
 **Reflection:**
+
 - worked on udemy course at Andrew's place. It was a good refresher, especially in doing some of the problems in JS
 
 **Lesson:**
 0 is falsy in JS
-- binary search - the left pointer should be mid + 1, and right pointer is just mid. This is because we ultimately don't want to include the midpoint, since midpoint is related to the solution condition.
 
+- binary search - the left pointer should be mid + 1, and right pointer is just mid. This is because we ultimately don't want to include the midpoint, since midpoint is related to the solution condition.
 
 ## Jan 4, 2023 - Wed
 
 **Today I worked on:**
-- Find Minimum in Rotated Sorted Array - m153 
+
+- Find Minimum in Rotated Sorted Array - m153
 - Search insert position - e35
 
 **Reflection:**
+
 - solved the problem that I had yesterday by RETURNING the recursive call, not simply running the recursive call
 - I feel like I often need to add an easy LC problem here and there to boost my moral
 - today definitely feeling a lot more discouragement in this whole job hunt.
 
 **Lesson:**
+
 - return the recursive call if you want to return that data
 
 ## Jan 3, 2022 - Tues
 
 **Today I worked on:**
+
 - Find Minimum in Rotated Sorted Array - m153 - didnt finish
 
 **Reflection:**
+
 - harder to get back into things after the holidays
 - having such a terrible time with m153. My solution is working, but my recursive call keeps mysteriously returning none. However, when I do print statements, the base case is working correctly.... I am returning the call to the helper function as well. This is so frustrating... it looks like I have the answer, but it just isn't working....
 
@@ -162,33 +200,33 @@ Because top <= bot is no longer true -> which is why we broke out of the while l
 ## Jan 2, 2022 - Monday
 
 **Today I worked on:**
-- word pattern - e290
 
+- word pattern - e290
 
 **Reflection:**
 
-
 **Lesson:**
+
 - using zip in your loop allows you to loop thru two iterables at the same time
-
-
 
 ## Dec 31, 2022 - Sat
 
 **Today I worked on:**
+
 - Generate Parenthesis - m22
 - Daily Temperatures -m739 (NTR)
 - baseball game - e682
 
 **Reflection:**
-- it is still very hard to translate these thoughts into code... 
+
+- it is still very hard to translate these thoughts into code...
 - I still don't feel like i can solve these problems on my own..
 - baseball game is too easy
 
 **Lesson:**
+
 - enumerate helps you loop, giving you the index, and the iterand in that order
 - the data structure you setup matters (e290). pattern
-
 
 ## Dec 29, 2022 - Thursday
 
@@ -202,6 +240,7 @@ Because top <= bot is no longer true -> which is why we broke out of the while l
 - getting back into oop with minstack, good practice, but it is telling that again, I am having some issues with working with objects.
 
 **Lesson:**
+
 - Read the problem carefully - the pop method will 'remove' the last element (and return it) but the top method is there to just retrieve the last element
 
 ## Dec 28, 2022 - Wednesday
