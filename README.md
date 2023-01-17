@@ -23,11 +23,22 @@ Have fun solving problems.
 ## Jan
 
 **Today I worked on:**
-
 **Reflection:**
 **Lesson:**
 
 ---
+
+## Jan 16, 2023 - Monday
+
+**Today I worked on:**
+- Attempted binary tree right side m199
+- Reviewed koko eating bananas
+
+**Reflection:**
+- today was MLK day. Spent time with my folks. Watched knives out, both of them enjoyed it. It was the first sunny day in a little while. Tried to be more creative in how I applied to jobs by searching for construction jobs, and also searching for companies on LinkedIn, and then jobs (versus just searching the job boards)
+
+**Lesson:**
+
 
 ## Jan 14, 2023 - Sat
 
