@@ -28,17 +28,27 @@ Have fun solving problems.
 
 ---
 
+## Jan 18, 2023 - Tuesday
+
+**Today I worked on:**
+- binary tree right side - m199
+
+**Reflection:**
+**Lesson:**
+
 ## Jan 16, 2023 - Monday
 
 **Today I worked on:**
+
 - Attempted binary tree right side m199
 - Reviewed koko eating bananas
 
 **Reflection:**
+
 - today was MLK day. Spent time with my folks. Watched knives out, both of them enjoyed it. It was the first sunny day in a little while. Tried to be more creative in how I applied to jobs by searching for construction jobs, and also searching for companies on LinkedIn, and then jobs (versus just searching the job boards)
+- The prompt is garbage for the binary tree right side... just garbage...
 
 **Lesson:**
-
 
 ## Jan 14, 2023 - Sat
 
@@ -48,17 +58,16 @@ Have fun solving problems.
 - valid sudoku -m36
 
   **Reflection:**
+
 - I was proud of actually figuring out most of valid sudoku on my own, but couldn't automate the subbox routine. Turns out there was this crazy integer operation // that you could use to associate the subboxes with indexes. NC's solution also uses collection defaultdict(sets), which is amazing. the value of the dictionary is a hashset...
 
 **Lesson:**
 
-- NumPy is a python library that you would use to work with large arrays. 
+- NumPy is a python library that you would use to work with large arrays.
 - collections default dict is VERY similar to a dict, BUT will never raise a keyerror if a value doesn't exist
 - default dict is a subdivision of the dict class
 
 - the defaultdict can have values as hashset's which is so cool. The value is now a hashset, which you can add to
-
-
 
 ## Jan 13, 2023 - Friday
 
