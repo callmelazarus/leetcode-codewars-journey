@@ -3,6 +3,7 @@ https://leetcode.com/problems/add-two-numbers/
 
 1/19/2022
 linked lists
+video.assist
 
 --- PROMPT ---
 You are given two non-empty linked lists representing two non-negative integers. The digits are stored in reverse order, and each of their nodes contains a single digit. Add the two numbers and return the sum as a linked list.
@@ -114,7 +115,7 @@ class Solution_NC:
     # while l1 or l2 are not null - while they exist
       while l1 or l2 or carry:
         # set the values if they exist, otherwise, set to 0
-        v1 = l1.val if l2 else 0
+        v1 = l1.val if l1 else 0
         v2 = l2.val if l2 else 0
 
         # create the sum
@@ -135,4 +136,5 @@ class Solution_NC:
         # advance the node being 'inspected'
         l1 = l1.next if l1 else None
         l2 = l2.next if l2 else None
-            
+    
+    return cur.next
