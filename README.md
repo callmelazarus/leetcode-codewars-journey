@@ -34,9 +34,14 @@ Have fun solving problems.
 - add two numbers -m2
 
 **Reflection:**
+- the dummy node makes a lot more sense this go around, when compared to when I just started in November.
+
 **Lesson:**
 - list.reverse() reverses the original list
 - it helps to write out an example problem as you think when you are looping thru things
+- `while 1:` will be true, and run. The '1' can be any non-zero
+- `while 0:` will not loop.
+- good to setup dummy nodes for LL problems
 
 ## Jan 18, 2023 - Tuesday
 

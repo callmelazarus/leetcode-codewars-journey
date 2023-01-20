@@ -39,7 +39,7 @@ rank = 830261
 goal = 95
 print('---------rate check------------')
 
-rate_required = (goal - solved_LC)//(days_before_90)
+rate_required = (goal - solved_LC)/(days_before_90)
 print('rate required to meet my goal:', rate_required)
 
 

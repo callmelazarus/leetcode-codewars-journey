@@ -15,6 +15,11 @@ You may assume the two numbers do not contain any leading zero, except the numbe
 
 --- PSEUDOCODE ---
 
+        brute force solution: build integers with the LL
+
+        sum the values
+
+        build a LL with those values
 
 
 
@@ -28,25 +33,8 @@ You may assume the two numbers do not contain any leading zero, except the numbe
 #         self.next = next
 class Solution:
     def addTwoNumbers(self, l1: Optional[ListNode], l2: Optional[ListNode]) -> Optional[ListNode]:
-
-        """
-        two integers are stored in LL form.
-        Output is a LL that contains the sum of the integers...
-
-        why o why would someone ever build a DS in this fashion for summing integers....
-
-        prev node
-        cur node
-
-        need to check the lengths of the linked lists
-
-        brute force solution: build integers with the LL
-
-        sum the values
-
-        build a LL with those values
-
-        """
+        
+        # see alt solution below for NC solution
         
         list1 = []
         list2 = []
@@ -101,3 +89,50 @@ class Solution:
 
 
 # --- ALT SOLN by others ---
+
+# Definition for singly-linked list.
+# class ListNode:
+#     def __init__(self, val=0, next=None):
+#         self.val = val
+#         self.next = next
+class Solution_NC:
+    def addTwoNumbers(self, l1: Optional[ListNode], l2: Optional[ListNode]) -> Optional[ListNode]:
+      """
+    add the ones digit, and so on and so forth
+    it is reversed, so it is already in the right order for you as you add things (you start at the ones place)
+
+
+      """
+
+      # establish dummy initial node
+      dummy = ListNode()
+      cur = dummy
+
+      # initialize carry
+      carry = 0
+
+    # while l1 or l2 are not null - while they exist
+      while l1 or l2 or carry:
+        # set the values if they exist, otherwise, set to 0
+        v1 = l1.val if l2 else 0
+        v2 = l2.val if l2 else 0
+
+        # create the sum
+        val = v1 + v2 + carry
+
+        # get the carry value
+        carry = val // 10
+
+        # get the ones place of val (remainder)
+        val = val % 10 
+
+        # establish the next node to be
+        cur.next= ListNode(val)
+
+        # update pointer of current, to be the next element (the new node you just created)
+        cur = cur.next
+
+        # advance the node being 'inspected'
+        l1 = l1.next if l1 else None
+        l2 = l2.next if l2 else None
+            
