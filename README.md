@@ -28,6 +28,16 @@ Have fun solving problems.
 
 ---
 
+## Jan
+
+**Today I worked on:**
+- add two numbers -m2
+
+**Reflection:**
+**Lesson:**
+- list.reverse() reverses the original list
+- it helps to write out an example problem as you think when you are looping thru things
+
 ## Jan 18, 2023 - Tuesday
 
 **Today I worked on:**
