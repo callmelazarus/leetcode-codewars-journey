@@ -28,24 +28,40 @@ Have fun solving problems.
 
 ---
 
-## Jan
+## Jan 20, 2023 - Friday
 
 **Today I worked on:**
+- longest palindromic substring -m5
+
+
+**Reflection:**
+- today was a productive day for the most part. It invovled desirable difficulty, learning new things, and achieving some goals I set for myself
+
+**Lesson:**
+
+## Jan 19, 2023 - Thursday
+
+**Today I worked on:**
+
+- Linked list udemy course
 - add two numbers -m2
 
 **Reflection:**
+
 - the dummy node makes a lot more sense this go around, when compared to when I just started in November.
 
 **Lesson:**
+
 - list.reverse() reverses the original list
 - it helps to write out an example problem as you think when you are looping thru things
 - `while 1:` will be true, and run. The '1' can be any non-zero
 - `while 0:` will not loop.
 - good to setup dummy nodes for LL problems
 
-## Jan 18, 2023 - Tuesday
+## Jan 18, 2023 - Wednesday
 
 **Today I worked on:**
+
 - binary tree right side - m199
 
 **Reflection:**
