@@ -28,6 +28,16 @@ Have fun solving problems.
 
 ---
 
+## Jan 21, 2023 - Sat
+
+**Today I worked on:**
+- Copy List with Random Pointer -m138
+
+**Reflection:**
+- interesting how you can create a hashmap with NODE data structures...and not just other primative data structures
+
+**Lesson:**
+
 ## Jan 20, 2023 - Friday
 
 **Today I worked on:**
