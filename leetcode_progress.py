@@ -27,7 +27,7 @@ rate_LC = 1
 # how many unique LC problems have you solved?
 # as of 12/30:50 | 1/13: 60 | 1/20: 64
 
-solved_LC = 64
+solved_LC = 65
 
 # ranking as of 12/26/2022 - 1004934
 # ranking as of 12/30/2022 - 932310 | 862373

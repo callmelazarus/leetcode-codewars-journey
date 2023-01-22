@@ -14,6 +14,8 @@
 - Is Subsequence - e392
 - longest commong prefix - e14
 - length of last word - e58
+- longest palindromic substring -m5
+- valid sudoku -m36
 
 
 # Hashmaps
@@ -34,6 +36,8 @@
 - 4sum - m18
 - Contains most water - m11
 - two sum 2 - m167
+- longest palindromic substring -m5
+
 
 # Stack
 - baseball game - e682 - too easy....
@@ -65,6 +69,8 @@
 - linked list cycle e141
 - Reorder list m143 (NTR)
 - Remove Nth Node From End of List - m19
+- add two numbers -m2
+
 
 # Trees
 
@@ -82,6 +88,7 @@
 - Lowest Common Ancestor of a Binary Search Tree - m235
 - binary tree level order traversal - m102
 - construct binary tree from preorder and inorder traversal - m105
+- binary tree right side - m199
 
 
 # Tries

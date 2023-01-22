@@ -1,8 +1,12 @@
 """
 https://leetcode.com/problems/longest-palindromic-substring/
 
+video.assist
+
 1/20/2022
 arrays
+two pointer
+sliding window
 clever conditionals
 edge cases are even and odd lengths
 

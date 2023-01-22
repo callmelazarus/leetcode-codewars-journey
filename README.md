@@ -33,7 +33,6 @@ Have fun solving problems.
 **Today I worked on:**
 - longest palindromic substring -m5
 
-
 **Reflection:**
 - today was a productive day for the most part. It invovled desirable difficulty, learning new things, and achieving some goals I set for myself
 
