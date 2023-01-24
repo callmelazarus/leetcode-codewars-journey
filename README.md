@@ -27,6 +27,13 @@ Have fun solving problems.
 **Lesson:**
 
 ---
+## Jan 1/23 - Monday
+
+**Today I worked on:**
+- evaluate reverse polish notation -m150
+**Reflection:**
+**Lesson:**
+
 
 ## Jan 21, 2023 - Sat
 
