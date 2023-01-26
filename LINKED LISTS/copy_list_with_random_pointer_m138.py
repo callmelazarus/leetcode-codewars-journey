@@ -21,6 +21,8 @@ random_index: the index of the node (range from 0 to n-1) that the random pointe
 Your code will only be given the head of the original linked list.
 
 --- LESSONS ---
+when you pop something in the stack, you return that value. 
+this is perfect for being able to then use that value to run the operation that you come across when you iterate
 
 --- QUESTIONS ---
 

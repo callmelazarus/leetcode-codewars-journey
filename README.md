@@ -27,20 +27,33 @@ Have fun solving problems.
 **Lesson:**
 
 ---
+
+## Jan 1/25 - Wed
+
+**Today I worked on:**
+
+- binary tree right side view -m199
+
+**Reflection:**
+
+**Lesson:**
+
 ## Jan 1/23 - Monday
 
 **Today I worked on:**
-- evaluate reverse polish notation -m150
-**Reflection:**
-**Lesson:**
 
+- evaluate reverse polish notation -m150
+  **Reflection:**
+  **Lesson:**
 
 ## Jan 21, 2023 - Sat
 
 **Today I worked on:**
+
 - Copy List with Random Pointer -m138
 
 **Reflection:**
+
 - interesting how you can create a hashmap with NODE data structures...and not just other primative data structures
 
 **Lesson:**
@@ -48,9 +61,11 @@ Have fun solving problems.
 ## Jan 20, 2023 - Friday
 
 **Today I worked on:**
+
 - longest palindromic substring -m5
 
 **Reflection:**
+
 - today was a productive day for the most part. It invovled desirable difficulty, learning new things, and achieving some goals I set for myself
 
 **Lesson:**
