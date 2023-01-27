@@ -1,7 +1,7 @@
 """
-https://leetcode.com/problems/longest-palindromic-substring/
+https://leetcode.com/problems/last-stone-weight/description/
 
-1/5/2022
+1/26/2022
 
 --- PROMPT ---
 

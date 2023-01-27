@@ -28,6 +28,17 @@ Have fun solving problems.
 
 ---
 
+## Jan 1/26 - Thursday
+
+**Today I worked on:**
+- last stone weight -e1046
+**Reflection:**
+- cool that python has heaps built into it (minHeap) with heapq.
+**Lesson:**
+- use a maxHeap (takes O(N) time)
+- Python doesn't have maxheap built in, so we will massage the minHeap by multiplying numbers by negative (super clever)
+- Getting the max is a O(log N) operation
+
 ## Jan 1/25 - Wed
 
 **Today I worked on:**
