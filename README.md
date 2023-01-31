@@ -28,6 +28,15 @@ Have fun solving problems.
 
 ---
 
+## Jan 1/30 - Monday
+
+**Today I worked on:**
+- subsets m78
+**Reflection:**
+**Lesson:**
+
+
+
 ## Jan 1/26 - Thursday
 
 **Today I worked on:**
