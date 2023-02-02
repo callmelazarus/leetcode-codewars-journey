@@ -11,6 +11,9 @@ Note: This challenge introduces precision problems. The test cases are scaled to
 
 
 --- LESSONS ---
+How to print something to the 6th decimal place using .format
+https://docs.python.org/3/library/stdtypes.html#str.format
+    print('{0:.6f}'.format(zero/total))
 
 --- QUESTIONS ---
 

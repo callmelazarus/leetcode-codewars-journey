@@ -28,12 +28,24 @@ Have fun solving problems.
 
 ---
 
+## Feb 1, 2023 - Wed
+
+**Today I worked on:**
+- mini max - Hacker Rank
+**Reflection:**
+**Lesson:**
+
+
 ## Jan 1/31 - Tuesday
 
 **Today I worked on:**
 - plus_minus - Hacker Rank
 **Reflection:**
 **Lesson:**
+How to print something to the 6th decimal place using .format
+https://docs.python.org/3/library/stdtypes.html#str.format
+    print('{0:.6f}'.format(zero/total))
+
 
 ## Jan 1/30 - Monday
 
