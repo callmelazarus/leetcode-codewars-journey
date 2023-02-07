@@ -28,6 +28,16 @@ Have fun solving problems.
 
 ---
 
+## Feb 6, 2023 - Monday
+
+**Today I worked on:**
+- 
+**Reflection:**
+- wow. It has been quite some time since I've LC'd... What happened? Last Thursday, had my first real interview! It was with Futek. Friday, I did more networking for applications, and had the hackathon for CCSC building the website for Kindred. This also bled into Saturday as well - along with spending time with Dennis afterwards.
+- 
+**Lesson:**
+
+
 ## Feb 1, 2023 - Wed
 
 **Today I worked on:**
