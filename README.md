@@ -20,7 +20,7 @@ Be ready when my name is called in an interview.
 Grow as a developer.
 Have fun solving problems.
 
-## Jan
+## Feb
 
 **Today I worked on:**
 **Reflection:**
@@ -28,10 +28,21 @@ Have fun solving problems.
 
 ---
 
+## Feb 7, 2023 - Tuesday
+
+**Today I worked on:**
+- Standup with Jon. Talked about valid stack sequences.
+- Wrote my first article on medium! It was about earthquake readiness and prep, in light of the tragedy in Turkey/Syria
+
+**Reflection:**
+
+**Lesson:**
+
+
 ## Feb 6, 2023 - Monday
 
 **Today I worked on:**
-- 
+- valid stack sequences m946
 **Reflection:**
 - wow. It has been quite some time since I've LC'd... What happened? Last Thursday, had my first real interview! It was with Futek. Friday, I did more networking for applications, and had the hackathon for CCSC building the website for Kindred. This also bled into Saturday as well - along with spending time with Dennis afterwards.
 - 

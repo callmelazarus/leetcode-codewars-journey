@@ -58,11 +58,13 @@ else return false
                 print('pu: ', pu)
                 print('po: ', po)
                 print('stack: ', stack)
-            elif pu +1 == n and po+1 == n and stack == []:
-                return True
+                if pu == n and po == n and stack == []:
+                    return True
             else:
                 stack.append(pushed[pu])
                 pu += 1
+                if pu == n and po == n and stack == []:
+                    return True
         return False
 
 # --- TEST ---
