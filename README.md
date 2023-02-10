@@ -28,6 +28,16 @@ Have fun solving problems.
 
 ---
 
+## Feb 9, 2023 - Thursday
+
+**Today I worked on:**
+- kindred website
+researching how to turn google sheet into DB, using Sheets API.
+Create a no-code sermon page, learning the differences between buttons, code, and embbeded
+**Reflection:**
+**Lesson:**
+
+
 ## Feb 7, 2023 - Tuesday
 
 **Today I worked on:**
