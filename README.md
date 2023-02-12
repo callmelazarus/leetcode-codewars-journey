@@ -28,6 +28,14 @@ Have fun solving problems.
 
 ---
 
+## Feb 10, 2023
+
+**Today I worked on:**
+- find center of star graph e1791
+**Reflection:**
+**Lesson:**
+
+
 ## Feb 9, 2023 - Thursday
 
 **Today I worked on:**
@@ -35,7 +43,10 @@ Have fun solving problems.
 researching how to turn google sheet into DB, using Sheets API.
 Create a no-code sermon page, learning the differences between buttons, code, and embbeded
 **Reflection:**
+Squarespace definitely has limitations. Doesn't help that I am new to it. But it appears that to do more interesting things with it, you really need to work 'extra hard' within the strange boundaries of squarespace.
 **Lesson:**
+- google sheets can be used similarly to a DB, but requires authentication and an API key.
+- doing 'unique' things in squarespace is it's own beast. A lot of custom CSS is necessary. would be interesting to use javascript
 
 
 ## Feb 7, 2023 - Tuesday

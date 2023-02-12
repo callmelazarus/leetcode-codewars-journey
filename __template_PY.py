@@ -1,7 +1,7 @@
 """
 https://leetcode.com/problems/last-stone-weight/description/
 
-1/26/2022
+2/26/2023
 
 --- PROMPT ---
 
