@@ -37,6 +37,19 @@ class Solution(object):
 
         return nums
 
+
+    def runningSum_v2(self, nums: List[int]) -> List[int]:
+    n = len(nums)
+    soln = []
+    for i in range(n):
+        if i == 0:
+            soln.append(nums[i])
+        else:
+            soln.append(soln[i-1]+nums[i])
+
+    return soln
+
+
 # --- TEST ---
 
 

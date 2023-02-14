@@ -28,6 +28,15 @@ Have fun solving problems.
 
 ---
 
+## Feb 13, 2023 - Monday
+
+**Today I worked on:**
+- running sum of 1d array - e1480
+**Reflection:**
+**Lesson:**
+
+
+
 ## Feb 10, 2023
 
 **Today I worked on:**

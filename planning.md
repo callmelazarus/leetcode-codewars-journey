@@ -1,5 +1,6 @@
 # Arrays 
 
+- running sum of 1d array - e1480
 - contains duplicates - e217
 - Valid anagram - e242
 - isomorphic string - e205
