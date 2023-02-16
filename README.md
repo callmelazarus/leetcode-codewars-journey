@@ -28,6 +28,24 @@ Have fun solving problems.
 
 ---
 
+## Feb 15, 2023 - Wed
+
+**Today I worked on:**
+- number of islands -m200 - definitely need to study
+- so much to do for Kindred. HR duties, as well as presiding. Feeling overwhelmed..
+**Reflection:**
+**Lesson:**
+
+
+## Feb 14, 2023 - Tues
+
+**Today I worked on:**
+- career fair in long beach... very sad turnout. 5 companies, really small room... no swe positions
+- kindred website photo preparations
+- Clippers vs. Warriors with dad :) no curry unfortunately, but still a fun time!
+**Reflection:**
+**Lesson:**
+
 ## Feb 13, 2023 - Monday
 
 **Today I worked on:**
