@@ -28,6 +28,14 @@ Have fun solving problems.
 
 ---
 
+
+## Feb 18, 2023 - Sat
+
+**Today I worked on:**
+- can place flowers e605
+**Reflection:**
+**Lesson:**
+
 ## Feb 15, 2023 - Wed
 
 **Today I worked on:**

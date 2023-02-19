@@ -1,5 +1,6 @@
 # Arrays 
 
+- can place flowers e605
 - running sum of 1d array - e1480
 - contains duplicates - e217
 - Valid anagram - e242
