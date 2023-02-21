@@ -28,12 +28,22 @@ Have fun solving problems.
 
 ---
 
+## Feb 10, 2023 - Mon
+
+**Today I worked on:**
+- can place flowers e605
+**Reflection:**
+**Lesson:**
+
 
 ## Feb 18, 2023 - Sat
 
 **Today I worked on:**
 - can place flowers e605
 **Reflection:**
+- Today was working on last minute kindred site meeting with Alex, Prairie, and Jonathan
+- Friday - payroll learning in morning and talk with Dinko. Then job hunting and Alex/Esther Park's wedding
+- Thursday - so much Kindred stuff
 **Lesson:**
 
 ## Feb 15, 2023 - Wed
