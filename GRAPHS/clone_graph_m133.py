@@ -68,10 +68,12 @@ class Solution(object):
             # create a copy of a node
             copy = Node(node.val)
 
+            # map the node to the copy
             oldToNew[node] = copy
 
             # for each neighbor, run DFS, appending to copies
             for nei in node.neighbors:
+                # append the resulting node into the copy
                 copy.neighbors.append(dfs(nei))
             
             return copy
