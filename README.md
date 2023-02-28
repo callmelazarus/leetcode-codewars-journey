@@ -28,10 +28,18 @@ Have fun solving problems.
 
 ---
 
+## Feb 27, 2023 - Mon
+
+**Today I worked on:**
+- palindromic substrings m647
+**Reflection:**
+- I have pulled back on the LC more recently... last week was more Kindred website deployment, as well as modal creation which was fun.
+**Lesson:**
+
 ## Feb 11, 2023 - Tues
 
 **Today I worked on:**
-- 
+- middle of linked list e876 - started
 **Reflection:**
 **Lesson:**
 

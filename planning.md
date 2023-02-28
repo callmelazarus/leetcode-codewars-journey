@@ -48,6 +48,8 @@
 - Generate Parenthesis - m22
 - Daily Temperatures -m739
 - evaluate reverse polish notation -m150
+- palindromic substrings m647
+
 
 # Sliding Window
 
@@ -67,6 +69,7 @@
 
 # Linked List
 
+- middle of linked list e876
 - reverse linked list e206
 - merge two sorted list e21
 - linked list cycle e141
@@ -118,6 +121,7 @@
 - house robber - m198
 - Coin Change - m322
 - coin change 2 - m518
+- palindromic substrings m647
 
 
 # Heap / priority queue
