@@ -20,13 +20,21 @@ Be ready when my name is called in an interview.
 Grow as a developer.
 Have fun solving problems.
 
-## Feb
+## March
 
 **Today I worked on:**
 **Reflection:**
 **Lesson:**
 
 ---
+
+## March 3 - Friday
+
+**Today I worked on:**
+- HackerRank: Lonely Integer
+**Reflection:**
+Doing HackerRank to prepare for takehome tests
+**Lesson:**
 
 ## Feb 27, 2023 - Mon
 
