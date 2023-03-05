@@ -28,6 +28,14 @@ Have fun solving problems.
 
 ---
 
+## March 4, Sat
+
+**Today I worked on:**
+- 
+**Reflection:**
+**Lesson:**
+
+
 ## March 3 - Friday
 
 **Today I worked on:**
