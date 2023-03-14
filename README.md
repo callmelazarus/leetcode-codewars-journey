@@ -28,6 +28,15 @@ Have fun solving problems.
 
 ---
 
+## March 13, 2023 - Mon
+
+**Today I worked on:**
+- concatenation of array - e1929
+**Reflection:**
+- it's been quite a while since 
+**Lesson:**
+
+
 ## March 4, Sat
 
 **Today I worked on:**
