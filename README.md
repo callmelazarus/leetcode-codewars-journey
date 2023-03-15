@@ -28,6 +28,16 @@ Have fun solving problems.
 
 ---
 
+## March 15, 2023 - Wed
+
+**Today I worked on:**
+- refreshing on DSA's, and revieiwng past LC problems
+- remove duplicates from sorted array - e26
+**Reflection:**
+- I recieved great news today that I am moved to the last round interview for Moody's Analytics.
+**Lesson:**
+
+
 ## March 13, 2023 - Mon
 
 **Today I worked on:**
