@@ -33,6 +33,7 @@ Have fun solving problems.
 **Today I worked on:**
 - refreshing on DSA's, and revieiwng past LC problems
 - remove duplicates from sorted array - e26
+- revisit - valid parenthesis e20
 **Reflection:**
 - I recieved great news today that I am moved to the last round interview for Moody's Analytics.
 **Lesson:**

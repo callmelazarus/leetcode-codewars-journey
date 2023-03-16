@@ -20,6 +20,7 @@ You can check to see if something is in a dictionary using 'in'
 """
 
 
+
 # --- MY SOLUTION ---
 class Solution(object):
     def isAnagram(self, s, t):
@@ -62,6 +63,9 @@ class Solution(object):
         # do this for both strings. 
         # check to see if the dictionaries match
 
+        space = O(N) - dictionary will grow dependent on the size of the input
+
+        time: O(N) - iterate thru each element to build dictionary
 
 
 """
