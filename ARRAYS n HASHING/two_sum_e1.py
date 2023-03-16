@@ -61,6 +61,7 @@ if not, keep building the dictionary.
 
 Bc you are guarenteed an answer, looping thru the entire list, you will reach a solution
 
+Time and space do have a inverse relationship many times.
 
 """
 # --- TEST ---
@@ -68,3 +69,33 @@ Bc you are guarenteed an answer, looping thru the entire list, you will reach a 
 
 
 # --- ALT SOLN by others ---
+class Solution:
+    def twoSum(self, nums: List[int], target: int) -> List[int]:
+        
+        # compiles values you've passed, with their index
+        history = {}
+
+        # loop thru the list of nums
+        for i in range(len(nums)):
+            
+            # set the current nums value
+            cur = nums[i]
+
+            # recognize that the leftover value is the target minus current val
+            leftover = target - cur
+
+            # if leftover is in history!!! Return those indices
+            if leftover in history:
+                return [i, history[leftover]]
+            # otherwise...
+            # insert that number into your history (val:index pairs)
+            history[nums[i]] = i
+
+
+
+
+        # ideal Big O Complexity
+        ## Time - O(N)
+        ## Space - O(N)
+
+            
