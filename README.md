@@ -28,6 +28,19 @@ Have fun solving problems.
 
 ---
 
+## March 16, 2023 - Thur
+
+**Today I worked on:**
+- revisit - binary search e704
+- revisit - container with most fluid - m11
+- revisit - invert binary tree - e226
+- 
+**Reflection:**
+Day before the MATR superday
+
+**Lesson:**
+
+
 ## March 15, 2023 - Wed
 
 **Today I worked on:**
@@ -47,16 +60,9 @@ Have fun solving problems.
 **Today I worked on:**
 - concatenation of array - e1929
 **Reflection:**
-- it's been quite a while since 
+- it's been quite a while since I've been on this..
 **Lesson:**
 
-
-## March 4, Sat
-
-**Today I worked on:**
-- 
-**Reflection:**
-**Lesson:**
 
 
 ## March 3 - Friday
@@ -1032,7 +1038,7 @@ Sliding window, using the two pointers will help me compare two values within a 
 **Reflection:**
 
 - getting back into leetcode. This past Monday was graduation, and last week was career services.
-- floodfill is not easy to process
+- flood fill is not easy to process
   **Lesson:**
 - at 3pm, when I have low energy, I can do a walk and talk, prepare for behavorial interviews
 
