@@ -23,7 +23,9 @@ Have fun solving problems.
 ## March
 
 **Today I worked on:**
+
 **Reflection:**
+
 **Lesson:**
 
 ---
@@ -32,8 +34,10 @@ Have fun solving problems.
 
 **Today I worked on:**
 - Unique number of occurenes e1207
+
 **Reflection:**
 - got an offer with Moody's Analytics!! these last 2 weeks have been a whirlwind
+
 **Lesson:**
 
 ## March 16, 2023 - Thur
@@ -67,8 +71,10 @@ Day before the MATR superday
 
 **Today I worked on:**
 - concatenation of array - e1929
+
 **Reflection:**
 - it's been quite a while since I've been on this..
+
 **Lesson:**
 
 
@@ -77,22 +83,27 @@ Day before the MATR superday
 
 **Today I worked on:**
 - HackerRank: Lonely Integer
+
 **Reflection:**
 Doing HackerRank to prepare for takehome tests
+
 **Lesson:**
 
 ## Feb 27, 2023 - Mon
 
 **Today I worked on:**
 - palindromic substrings m647
+  
 **Reflection:**
 - I have pulled back on the LC more recently... last week was more Kindred website deployment, as well as modal creation which was fun.
+  
 **Lesson:**
 
 ## Feb 11, 2023 - Tues
 
 **Today I worked on:**
 - middle of linked list e876 - started
+  
 **Reflection:**
 **Lesson:**
 
@@ -102,6 +113,7 @@ Doing HackerRank to prepare for takehome tests
 **Today I worked on:**
 - can place flowers e605
 - clone graph m133
+  
 **Reflection:**
 **Lesson:**
 
@@ -110,10 +122,12 @@ Doing HackerRank to prepare for takehome tests
 
 **Today I worked on:**
 - can place flowers e605
+  
 **Reflection:**
 - Today was working on last minute kindred site meeting with Alex, Prairie, and Jonathan
 - Friday - payroll learning in morning and talk with Dinko. Then job hunting and Alex/Esther Park's wedding
 - Thursday - so much Kindred stuff
+
 **Lesson:**
 
 ## Feb 15, 2023 - Wed
@@ -121,6 +135,7 @@ Doing HackerRank to prepare for takehome tests
 **Today I worked on:**
 - number of islands -m200 - definitely need to study
 - so much to do for Kindred. HR duties, as well as presiding. Feeling overwhelmed..
+  
 **Reflection:**
 **Lesson:**
 
@@ -131,6 +146,7 @@ Doing HackerRank to prepare for takehome tests
 - career fair in long beach... very sad turnout. 5 companies, really small room... no swe positions
 - kindred website photo preparations
 - Clippers vs. Warriors with dad :) no curry unfortunately, but still a fun time!
+
 **Reflection:**
 **Lesson:**
 
@@ -138,6 +154,7 @@ Doing HackerRank to prepare for takehome tests
 
 **Today I worked on:**
 - running sum of 1d array - e1480
+
 **Reflection:**
 **Lesson:**
 
@@ -147,6 +164,7 @@ Doing HackerRank to prepare for takehome tests
 
 **Today I worked on:**
 - find center of star graph e1791
+
 **Reflection:**
 **Lesson:**
 
@@ -157,8 +175,10 @@ Doing HackerRank to prepare for takehome tests
 - kindred website
 researching how to turn google sheet into DB, using Sheets API.
 Create a no-code sermon page, learning the differences between buttons, code, and embbeded
+
 **Reflection:**
 Squarespace definitely has limitations. Doesn't help that I am new to it. But it appears that to do more interesting things with it, you really need to work 'extra hard' within the strange boundaries of squarespace.
+
 **Lesson:**
 - google sheets can be used similarly to a DB, but requires authentication and an API key.
 - doing 'unique' things in squarespace is it's own beast. A lot of custom CSS is necessary. would be interesting to use javascript
@@ -179,9 +199,10 @@ Squarespace definitely has limitations. Doesn't help that I am new to it. But it
 
 **Today I worked on:**
 - valid stack sequences m946
+
 **Reflection:**
 - wow. It has been quite some time since I've LC'd... What happened? Last Thursday, had my first real interview! It was with Futek. Friday, I did more networking for applications, and had the hackathon for CCSC building the website for Kindred. This also bled into Saturday as well - along with spending time with Dennis afterwards.
-- 
+
 **Lesson:**
 
 
@@ -189,6 +210,7 @@ Squarespace definitely has limitations. Doesn't help that I am new to it. But it
 
 **Today I worked on:**
 - mini max - Hacker Rank
+
 **Reflection:**
 **Lesson:**
 
@@ -197,7 +219,9 @@ Squarespace definitely has limitations. Doesn't help that I am new to it. But it
 
 **Today I worked on:**
 - plus_minus - Hacker Rank
+
 **Reflection:**
+
 **Lesson:**
 How to print something to the 6th decimal place using .format
 https://docs.python.org/3/library/stdtypes.html#str.format
@@ -208,6 +232,7 @@ https://docs.python.org/3/library/stdtypes.html#str.format
 
 **Today I worked on:**
 - subsets m78
+
 **Reflection:**
 **Lesson:**
 
@@ -216,8 +241,10 @@ https://docs.python.org/3/library/stdtypes.html#str.format
 
 **Today I worked on:**
 - last stone weight -e1046
+
 **Reflection:**
 - cool that python has heaps built into it (minHeap) with heapq.
+
 **Lesson:**
 - use a maxHeap (takes O(N) time)
 - Python doesn't have maxheap built in, so we will massage the minHeap by multiplying numbers by negative (super clever)
