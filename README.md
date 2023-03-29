@@ -28,6 +28,14 @@ Have fun solving problems.
 
 ---
 
+## March 28, 2023 - Tue
+
+**Today I worked on:**
+- Unique number of occurenes e1207
+**Reflection:**
+- got an offer with Moody's Analytics!! these last 2 weeks have been a whirlwind
+**Lesson:**
+
 ## March 16, 2023 - Thur
 
 **Today I worked on:**

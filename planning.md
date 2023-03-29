@@ -2,6 +2,7 @@
 
 - remove duplicates from sorted array - e26
 - concatenation of array - e1929
+- Unique number of occurenes e1207
 - can place flowers e605
 - running sum of 1d array - e1480
 - contains duplicates - e217
