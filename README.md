@@ -29,6 +29,16 @@ Have fun solving problems.
 **Lesson:**
 
 ---
+## March 31, 2023 - Fri
+
+**Today I worked on:**
+- house robber 2 m213
+
+**Reflection:**
+good reminder that you need to be able to logically break down the problem with just english, before doing so with code
+
+**Lesson:**
+
 
 ## March 28, 2023 - Tue
 
