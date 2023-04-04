@@ -48,3 +48,10 @@ print(f'LC completed within 90 days of graduation: {solved_LC + rate_LC*(days_be
 at a rate of {rate_LC} LC problems per day')
 
 print(f'Current rank is {rank}, roughly top {rank/5000000*100}%')
+
+
+Before
+https://youtu.be/QfpDYjhOtb4
+
+After
+https://youtu.be/_2Mug4ddfbc
