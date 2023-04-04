@@ -11,8 +11,7 @@ https://neetcode.io/practice
 Off on Sundays
 
 Milestone 1: 39 by Jan 1 [Goal exceeded! hit 50 by new year]
-Milestone 2: 95 by Feb 12
-Milestone 3: 130 by March 14
+Milestone 2: 95 by April 21st
 
 # Why:
 
@@ -20,7 +19,7 @@ Be ready when my name is called in an interview.
 Grow as a developer.
 Have fun solving problems.
 
-## March
+## April
 
 **Today I worked on:**
 
@@ -29,6 +28,15 @@ Have fun solving problems.
 **Lesson:**
 
 ---
+## April 3, 2023 - Mon
+
+**Today I worked on:**
+- max subarray m53
+
+**Reflection:**
+
+**Lesson:**
+
 ## March 31, 2023 - Fri
 
 **Today I worked on:**
