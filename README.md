@@ -19,7 +19,7 @@ Be ready when my name is called in an interview.
 Grow as a developer.
 Have fun solving problems.
 
-## April
+## Sept
 
 **Today I worked on:**
 
@@ -28,6 +28,17 @@ Have fun solving problems.
 **Lesson:**
 
 ---
+## Aug 31, 2023 - Thursday
+Back at it!
+**Today I worked on:**
+- find the index of the first occurance in a string - e28
+
+**Reflection:**
+
+**Lesson:**
+
+
+
 ## April 3, 2023 - Mon
 
 **Today I worked on:**
