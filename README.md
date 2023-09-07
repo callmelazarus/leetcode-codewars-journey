@@ -28,6 +28,18 @@ Have fun solving problems.
 **Lesson:**
 
 ---
+## Sept 6, 2023 - Wed
+
+**Today I worked on:**
+- move zeros -e283
+
+**Reflection:**
+- man.... I truly, to my bones, hate leetcode problems....
+- this problem, although easy, was  so painfully challenging...
+
+
+**Lesson:**
+
 ## Aug 31, 2023 - Thursday
 Back at it!
 **Today I worked on:**
