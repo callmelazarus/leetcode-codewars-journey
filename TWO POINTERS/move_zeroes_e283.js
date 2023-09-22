@@ -1,11 +1,15 @@
 /*
 https://leetcode.com/problems/move-zeroes/description/
 
-12/21/2022
+9/6/2022
 2 pointers
 clever - think of another way to cleverly solve the problem. 
 move all non-zeros to the beginning of list (same question, asked differently)
 
+Similar problems:
+Remove Element - e27
+Apply Operations to an Array - e2460
+remove duplicates from sorted array - e26
 
 --- PROMPT ---
 Given an integer array nums, move all 0's to the end of it while maintaining the relative order of the non-zero elements.
@@ -13,6 +17,7 @@ Given an integer array nums, move all 0's to the end of it while maintaining the
 Note that you must do this in-place without making a copy of the array.
 
 --- LESSONS ---
+
 
 --- QUESTIONS ---
 

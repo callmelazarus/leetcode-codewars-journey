@@ -28,6 +28,16 @@ Have fun solving problems.
 **Lesson:**
 
 ---
+## Sept 21, 2023 - Thur
+
+**Today I worked on:**
+- merge Sorted Array - e88
+
+
+**Reflection:**
+
+**Lesson:**
+
 ## Sept 6, 2023 - Wed
 
 **Today I worked on:**
