@@ -19,7 +19,7 @@ Be ready when my name is called in an interview.
 Grow as a developer.
 Have fun solving problems.
 
-## Sept
+## Oct
 
 **Today I worked on:**
 
@@ -28,6 +28,16 @@ Have fun solving problems.
 **Lesson:**
 
 ---
+
+## Oct 12, 2023 - Thur
+
+**Today I worked on:**
+- add binary - e67
+
+**Reflection:**
+
+**Lesson:**
+
 ## Sept 21, 2023 - Thur
 
 **Today I worked on:**

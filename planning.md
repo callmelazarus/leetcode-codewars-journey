@@ -43,6 +43,8 @@
 - two sum 2 - m167
 - longest palindromic substring -m5
 - merge sorted array -e88
+- add binary - e67
+
 
 
 # Stack
